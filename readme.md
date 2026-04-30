@@ -4,7 +4,7 @@
 
 ### Description du jeu
 Jeu basé sur le gameplay de Clash Royale en 2D pour 2 joueurs en local.
-Les joueurs peuvent composer leurs équipes en sélectionnant jusqu'à 4 personnages différents.
+Les joueurs peuvent composer leurs équipes de 4 personnages en sélectionnant parmi 6 personnages personnages différents (pour le moment).
 
 Chaque personnage possède ses propres caractéristiques :
 - Vie
@@ -60,6 +60,8 @@ De plus, une animation d'attaque spéciale (ultime) a été ajoutée à certains
 - Passer à des decks d'équipe de 10 cartes avec une pioche aléatoire afin d'ajouter de la stratégie et du deckbuilding.
 - Ajouter une attaque automatique aux tours (optionnel).
 - Ajouter des décors plus poussés à la carte (assets déjà présents).
+- Fix le problème des personnages qui se pousse sur les objectifs
+
 
 ### SOURCES (Assets utilisés et guides vidéo)
 
