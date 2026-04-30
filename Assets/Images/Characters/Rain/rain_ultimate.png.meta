@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: 2fdc5867bf9d04d5b8d01c36721514f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6303267377563287272
+    second: rain_ultimate_0
+  - first:
+      213: -4017571140289735467
+    second: rain_ultimate_1
+  - first:
+      213: 3110857618673931033
+    second: rain_ultimate_2
+  - first:
+      213: -5211050026849394024
+    second: rain_ultimate_3
+  - first:
+      213: -3663733167982887659
+    second: rain_ultimate_4
+  - first:
+      213: -4125710576889772705
+    second: rain_ultimate_5
+  - first:
+      213: 3800892167848663166
+    second: rain_ultimate_6
+  - first:
+      213: 8134768070263201494
+    second: rain_ultimate_7
+  - first:
+      213: 7802417706185857700
+    second: rain_ultimate_8
+  - first:
+      213: 4880284993910432880
+    second: rain_ultimate_9
+  - first:
+      213: 1585430376408261681
+    second: rain_ultimate_10
+  - first:
+      213: 5349104130447244075
+    second: rain_ultimate_11
+  - first:
+      213: 188802362323787793
+    second: rain_ultimate_12
+  - first:
+      213: 7545626042079664137
+    second: rain_ultimate_13
+  - first:
+      213: 1845642567815084659
+    second: rain_ultimate_14
+  - first:
+      213: 74682072910543034
+    second: rain_ultimate_15
+  - first:
+      213: 7974631393290942758
+    second: rain_ultimate_16
+  - first:
+      213: -7591936344836277696
+    second: rain_ultimate_17
+  - first:
+      213: 4117576695262089755
+    second: rain_ultimate_18
+  - first:
+      213: -1269824458578687127
+    second: rain_ultimate_19
+  - first:
+      213: -4239558936624846452
+    second: rain_ultimate_20
+  - first:
+      213: 6500314570856885906
+    second: rain_ultimate_21
+  - first:
+      213: 3482766412900716151
+    second: rain_ultimate_22
+  - first:
+      213: -367307448775659097
+    second: rain_ultimate_23
+  - first:
+      213: -1231482844306350635
+    second: rain_ultimate_24
+  - first:
+      213: 8567702743881526427
+    second: rain_ultimate_25
+  - first:
+      213: -8178985512632026290
+    second: rain_ultimate_26
+  - first:
+      213: 4337006206861821271
+    second: rain_ultimate_27
+  - first:
+      213: -8311406523212761421
+    second: rain_ultimate_28
+  - first:
+      213: 1021770394619747162
+    second: rain_ultimate_29
+  - first:
+      213: 199951246914228475
+    second: rain_ultimate_30
+  - first:
+      213: -14466711430234805
+    second: rain_ultimate_31
+  - first:
+      213: -8967771669338145233
+    second: rain_ultimate_32
+  - first:
+      213: -4906037172739680262
+    second: rain_ultimate_33
+  - first:
+      213: -1438027265699592141
+    second: rain_ultimate_34
+  - first:
+      213: -8393813606853670922
+    second: rain_ultimate_35
+  - first:
+      213: 1489498824108264210
+    second: rain_ultimate_36
+  - first:
+      213: 8602671393196817773
+    second: rain_ultimate_37
+  - first:
+      213: 4920020141169246984
+    second: rain_ultimate_38
+  - first:
+      213: 5493475429441076557
+    second: rain_ultimate_39
+  - first:
+      213: 1782514134431968983
+    second: rain_ultimate_40
+  - first:
+      213: -2203643669676054797
+    second: rain_ultimate_41
+  - first:
+      213: 921539098420505602
+    second: rain_ultimate_42
+  - first:
+      213: 939039325583999725
+    second: rain_ultimate_43
+  - first:
+      213: -566912880654461472
+    second: rain_ultimate_44
+  - first:
+      213: -1849064932129090430
+    second: rain_ultimate_45
+  - first:
+      213: -2782521857425229059
+    second: rain_ultimate_46
+  - first:
+      213: -3911481000993774869
+    second: rain_ultimate_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rain_ultimate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeb7f3a844b97750800000000000000
+      internalID: 6303267377563287272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 880
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d45b2b7558be38c0800000000000000
+      internalID: -4017571140289735467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 880
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91390eba58cfb2b20800000000000000
+      internalID: 3110857618673931033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 880
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922ad22c91aea7b0800000000000000
+      internalID: -5211050026849394024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 880
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d3092581ec72dc0800000000000000
+      internalID: -3663733167982887659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55c96ad6188eb6c0800000000000000
+      internalID: -4125710576889772705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_6
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 660
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e781f26e94b7fb430800000000000000
+      internalID: 3800892167848663166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_7
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 660
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de5a36c57084e070800000000000000
+      internalID: 8134768070263201494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_8
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 660
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa1d669091c74c60800000000000000
+      internalID: 7802417706185857700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_9
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 660
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07463b858514ab340800000000000000
+      internalID: 4880284993910432880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134ade10784900610800000000000000
+      internalID: 1585430376408261681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 440
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bf1e9add5db3a40800000000000000
+      internalID: 5349104130447244075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_12
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 440
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110601b8fb2ce9200800000000000000
+      internalID: 188802362323787793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_13
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 440
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908581628e277b860800000000000000
+      internalID: 7545626042079664137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_14
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 440
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a35f4032a0d9910800000000000000
+      internalID: 1845642567815084659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab83cea13f2590100800000000000000
+      internalID: 74682072910543034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 220
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629f8c330059bae60800000000000000
+      internalID: 7974631393290942758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_17
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 220
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04af7a04e1604a690800000000000000
+      internalID: -7591936344836277696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_18
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 220
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1216804032942930800000000000000
+      internalID: 4117576695262089755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_19
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 220
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b805bf16da06ee0800000000000000
+      internalID: -1269824458578687127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89a42afb9f0a25c0800000000000000
+      internalID: -4239558936624846452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e683c79a1c53a50800000000000000
+      internalID: 6500314570856885906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_ultimate_22
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 680
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ecb9c9995455030800000000000000
+      internalID: 3482766412900716151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5c7ff378a122941e397db5249fe02758
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":680.0,"y":220.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rain_ultimate_0: 6303267377563287272
+      rain_ultimate_1: -4017571140289735467
+      rain_ultimate_10: 1585430376408261681
+      rain_ultimate_11: 5349104130447244075
+      rain_ultimate_12: 188802362323787793
+      rain_ultimate_13: 7545626042079664137
+      rain_ultimate_14: 1845642567815084659
+      rain_ultimate_15: 74682072910543034
+      rain_ultimate_16: 7974631393290942758
+      rain_ultimate_17: -7591936344836277696
+      rain_ultimate_18: 4117576695262089755
+      rain_ultimate_19: -1269824458578687127
+      rain_ultimate_2: 3110857618673931033
+      rain_ultimate_20: -4239558936624846452
+      rain_ultimate_21: 6500314570856885906
+      rain_ultimate_22: 3482766412900716151
+      rain_ultimate_3: -5211050026849394024
+      rain_ultimate_4: -3663733167982887659
+      rain_ultimate_5: -4125710576889772705
+      rain_ultimate_6: 3800892167848663166
+      rain_ultimate_7: 8134768070263201494
+      rain_ultimate_8: 7802417706185857700
+      rain_ultimate_9: 4880284993910432880
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,593 @@
+fileFormatVersion: 2
+guid: 1155b4464b3a34c0385ba8726658c7e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8029699435687039919
+    second: sakura_attack_0
+  - first:
+      213: 2322022436119755263
+    second: sakura_attack_1
+  - first:
+      213: 6363638265445402397
+    second: sakura_attack_2
+  - first:
+      213: -8537888257801868670
+    second: sakura_attack_3
+  - first:
+      213: -2769027306944893507
+    second: sakura_attack_4
+  - first:
+      213: -903485165685978910
+    second: sakura_attack_5
+  - first:
+      213: 7797428603861602493
+    second: sakura_attack_6
+  - first:
+      213: -1981718047936439714
+    second: sakura_attack_7
+  - first:
+      213: -493349621146183321
+    second: sakura_attack_8
+  - first:
+      213: -2631357177949477129
+    second: sakura_attack_9
+  - first:
+      213: 2201020431631648261
+    second: sakura_attack_10
+  - first:
+      213: -3029587538597295982
+    second: sakura_attack_11
+  - first:
+      213: -4960017670352076888
+    second: sakura_attack_12
+  - first:
+      213: -349109441782496317
+    second: sakura_attack_13
+  - first:
+      213: -4764137843677648137
+    second: sakura_attack_14
+  - first:
+      213: 2449573350487628331
+    second: sakura_attack_15
+  - first:
+      213: 4242995825868395382
+    second: sakura_attack_16
+  - first:
+      213: 3336167995255910743
+    second: sakura_attack_17
+  - first:
+      213: -820751882477705848
+    second: sakura_attack_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sakura_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3d745f7193f6f60800000000000000
+      internalID: 8029699435687039919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 672
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9b7616a1b793020800000000000000
+      internalID: 2322022436119755263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 672
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17c4f2594f205850800000000000000
+      internalID: 6363638265445402397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_3
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 672
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28aadbd7dd3538980800000000000000
+      internalID: -8537888257801868670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 672
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd6134d5507299d0800000000000000
+      internalID: -2769027306944893507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8c377570d2673f0800000000000000
+      internalID: -903485165685978910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 448
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db014aea008063c60800000000000000
+      internalID: 7797428603861602493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 448
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a94cb5fe58f74e0800000000000000
+      internalID: -1981718047936439714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 448
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769128922254729f0800000000000000
+      internalID: -493349621146183321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 448
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6a523969a8b7bd0800000000000000
+      internalID: -2631357177949477129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50608cacb689b8e10800000000000000
+      internalID: 2201020431631648261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 224
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29845f16f2eb4f5d0800000000000000
+      internalID: -3029587538597295982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 224
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aff007453a7a2bb0800000000000000
+      internalID: -4960017670352076888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 224
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3c1d6ffc6b72bf0800000000000000
+      internalID: -349109441782496317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_14
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 224
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa29966fd162edb0800000000000000
+      internalID: -4764137843677648137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a141fdbf1aef120800000000000000
+      internalID: 2449573350487628331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_attack_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 260
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673d958293622ea30800000000000000
+      internalID: 4242995825868395382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 38787705c3d9b4a2c91a3daff660ec56
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":260.0,"y":224.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sakura_attack_0: 8029699435687039919
+      sakura_attack_1: 2322022436119755263
+      sakura_attack_10: 2201020431631648261
+      sakura_attack_11: -3029587538597295982
+      sakura_attack_12: -4960017670352076888
+      sakura_attack_13: -349109441782496317
+      sakura_attack_14: -4764137843677648137
+      sakura_attack_15: 2449573350487628331
+      sakura_attack_16: 4242995825868395382
+      sakura_attack_2: 6363638265445402397
+      sakura_attack_3: -8537888257801868670
+      sakura_attack_4: -2769027306944893507
+      sakura_attack_5: -903485165685978910
+      sakura_attack_6: 7797428603861602493
+      sakura_attack_7: -1981718047936439714
+      sakura_attack_8: -493349621146183321
+      sakura_attack_9: -2631357177949477129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

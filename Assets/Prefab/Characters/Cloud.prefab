@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2231208166978948688
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4804708991445069321, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: cost
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -4804708991445069321, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: damage
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: -4804708991445069321, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: maxHealth
+      value: 170
+      objectReference: {fileID: 0}
+    - target: {fileID: -4804708991445069321, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: attackSound
+      value: 
+      objectReference: {fileID: 8300000, guid: f5281452fd6184dd3bda770be8f11281, type: 3}
+    - target: {fileID: -4804708991445069321, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: numberOfHits
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: -4804708991445069321, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: attackCooldown
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -4441721513379667110, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_Radius
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 803018286233631277, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1582072157544625969, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: d793b0074c79c456ab180401a1b36109, type: 2}
+    - target: {fileID: 4647531400929481205, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_Name
+      value: Cloud
+      objectReference: {fileID: 0}
+    - target: {fileID: 4735179421150337436, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4735179421150337436, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: attackRange
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142525730445579548, guid: 0ec85873340a4479db8d47df973f685f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5364998781258067660, guid: 453e43ee9d9814c7784457daff53f14b, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0ec85873340a4479db8d47df973f685f, type: 3}

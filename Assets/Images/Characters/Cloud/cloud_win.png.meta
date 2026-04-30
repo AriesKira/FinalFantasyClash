@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: bba3f214062ad48cdb76084361eecd56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3540280723717335863
+    second: cloud_win_0
+  - first:
+      213: 1904582468709689179
+    second: cloud_win_1
+  - first:
+      213: -8759149164595332294
+    second: cloud_win_2
+  - first:
+      213: 805158212123268623
+    second: cloud_win_3
+  - first:
+      213: 2911888824177229440
+    second: cloud_win_4
+  - first:
+      213: 7460388428410111645
+    second: cloud_win_5
+  - first:
+      213: 1805510124986565451
+    second: cloud_win_6
+  - first:
+      213: -7045278415989602960
+    second: cloud_win_7
+  - first:
+      213: 5835502975196919004
+    second: cloud_win_8
+  - first:
+      213: -5607353155739076696
+    second: cloud_win_9
+  - first:
+      213: 2786154954311902969
+    second: cloud_win_10
+  - first:
+      213: 4871768388108275705
+    second: cloud_win_11
+  - first:
+      213: 5759752368300513439
+    second: cloud_win_12
+  - first:
+      213: 5625763648673228361
+    second: cloud_win_13
+  - first:
+      213: 5499393270810500589
+    second: cloud_win_14
+  - first:
+      213: -8374339644627414974
+    second: cloud_win_15
+  - first:
+      213: -4113801252967250103
+    second: cloud_win_16
+  - first:
+      213: -1331572359534449592
+    second: cloud_win_17
+  - first:
+      213: 3720762827445270407
+    second: cloud_win_18
+  - first:
+      213: 776314325797840335
+    second: cloud_win_19
+  - first:
+      213: -5350361901650559499
+    second: cloud_win_20
+  - first:
+      213: -7426050684241684009
+    second: cloud_win_21
+  - first:
+      213: -1653221617141622761
+    second: cloud_win_22
+  - first:
+      213: 5919078135092032654
+    second: cloud_win_23
+  - first:
+      213: -6052052875273998846
+    second: cloud_win_24
+  - first:
+      213: 7937994546292185604
+    second: cloud_win_25
+  - first:
+      213: 1525254377274498104
+    second: cloud_win_26
+  - first:
+      213: 6242977267501981858
+    second: cloud_win_27
+  - first:
+      213: -701317799819374691
+    second: cloud_win_28
+  - first:
+      213: 350830720401200525
+    second: cloud_win_29
+  - first:
+      213: 8858597386068274120
+    second: cloud_win_30
+  - first:
+      213: -3171810656323802047
+    second: cloud_win_31
+  - first:
+      213: -7201099378560680962
+    second: cloud_win_32
+  - first:
+      213: 3584445578812552106
+    second: cloud_win_33
+  - first:
+      213: -7319051588568222194
+    second: cloud_win_34
+  - first:
+      213: 2344838047561033994
+    second: cloud_win_35
+  - first:
+      213: -1775900650064763114
+    second: cloud_win_36
+  - first:
+      213: -4686784680644198748
+    second: cloud_win_37
+  - first:
+      213: 3152339464478265355
+    second: cloud_win_38
+  - first:
+      213: -3586697900083822385
+    second: cloud_win_39
+  - first:
+      213: -5882361845090235452
+    second: cloud_win_40
+  - first:
+      213: 7994263415443725564
+    second: cloud_win_41
+  - first:
+      213: -6407570800885469838
+    second: cloud_win_42
+  - first:
+      213: 6304018463028456402
+    second: cloud_win_43
+  - first:
+      213: -8104238223714825534
+    second: cloud_win_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloud_win_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5074372, y: 0.3611735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c45aa160756edec0800000000000000
+      internalID: -3540280723717335863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1080
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5185931, y: 0.34381986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57a0e41aaf6e6a10800000000000000
+      internalID: 1904582468709689179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_2
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1080
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52231157, y: 0.39588013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bb2a52e30417680800000000000000
+      internalID: -8759149164595332294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1080
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5446228, y: 0.37852648}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f069895c02f7c2b00800000000000000
+      internalID: 805158212123268623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_4
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1080
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.52974856, y: 0.34381986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e738e257b196820800000000000000
+      internalID: 2911888824177229440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.49628145, y: 0.30911288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c1d1bfbf988760800000000000000
+      internalID: 7460388428410111645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 900
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32646653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43023684e57e0910800000000000000
+      internalID: 1805510124986565451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 900
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.47396997, y: 0.3177897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075863fab942a3e90800000000000000
+      internalID: -7045278415989602960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_8
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 900
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.46653268, y: 0.3177897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f852c90fdbf050800000000000000
+      internalID: 5835502975196919004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_9
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 900
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44793993, y: 0.32646653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7b10e830eae22b0800000000000000
+      internalID: -5607353155739076696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.32646653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6a4f45b296aa620800000000000000
+      internalID: 2786154954311902969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 720
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44793993, y: 0.33514303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffcb29898ffb9340800000000000000
+      internalID: 4871768388108275705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_12
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 720
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44050294, y: 0.32646653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9854c23340ceef40800000000000000
+      internalID: 5759752368300513439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_13
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 720
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44793993, y: 0.3177897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946297d5b3ab21e40800000000000000
+      internalID: 5625763648673228361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_14
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44422114, y: 0.3177897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded55d2fa05c15c40800000000000000
+      internalID: 5499393270810500589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.45165852, y: 0.3177897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240138d567e58cb80800000000000000
+      internalID: -8374339644627414974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 540
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4442213, y: 0.3177897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94784586e87d8e6c0800000000000000
+      internalID: -4113801252967250103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 540
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4516584, y: 0.33514303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c68357efd458de0800000000000000
+      internalID: -1331572359534449592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_18
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 540
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4516584, y: 0.3264662}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7877a5ff31ec2a330800000000000000
+      internalID: 3720762827445270407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_19
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 540
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4516584, y: 0.3177897}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc52a3724c506ca00800000000000000
+      internalID: 776314325797840335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44422135, y: 0.34381986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdb558a232bfb5b0800000000000000
+      internalID: -5350361901650559499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 360
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44793993, y: 0.31778988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d95ab16f3e51f890800000000000000
+      internalID: -7426050684241684009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 360
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4516584, y: 0.30911323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718d647c2b39e09e0800000000000000
+      internalID: -1653221617141622761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_23
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 360
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44050264, y: 0.32646653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8431f7043ac42250800000000000000
+      internalID: 5919078135092032654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_24
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 360
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44050264, y: 0.30911323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e696f99f9c20ca0800000000000000
+      internalID: -6052052875273998846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.3264663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40adbb88bfb692e60800000000000000
+      internalID: 7937994546292185604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_26
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.3264663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c5e8566caca2510800000000000000
+      internalID: 1525254377274498104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 180
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44422144, y: 0.35249633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a06b428fb283a650800000000000000
+      internalID: 6242977267501981858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_28
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 180
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44422144, y: 0.3264663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f8b134d2b6446f0800000000000000
+      internalID: -701317799819374691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_29
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 180
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44422114, y: 0.31778955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85dec17ea66ed400800000000000000
+      internalID: 350830720401200525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.34381986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbadc4436f00fa70800000000000000
+      internalID: 8858597386068274120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4442213, y: 0.34381986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c650753077bf3d0800000000000000
+      internalID: -3171810656323802047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_win_32
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 420
+        height: 180
+      alignment: 9
+      pivot: {x: 0.44422144, y: 0.34381986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbba9ca44e801c90800000000000000
+      internalID: -7201099378560680962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 442ca85a1050640d8be94823bec1f73f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":7.0},"gridSpriteSize":{"x":420.0,"y":180.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      cloud_win_0: -3540280723717335863
+      cloud_win_1: 1904582468709689179
+      cloud_win_10: 2786154954311902969
+      cloud_win_11: 4871768388108275705
+      cloud_win_12: 5759752368300513439
+      cloud_win_13: 5625763648673228361
+      cloud_win_14: 5499393270810500589
+      cloud_win_15: -8374339644627414974
+      cloud_win_16: -4113801252967250103
+      cloud_win_17: -1331572359534449592
+      cloud_win_18: 3720762827445270407
+      cloud_win_19: 776314325797840335
+      cloud_win_2: -8759149164595332294
+      cloud_win_20: -5350361901650559499
+      cloud_win_21: -7426050684241684009
+      cloud_win_22: -1653221617141622761
+      cloud_win_23: 5919078135092032654
+      cloud_win_24: -6052052875273998846
+      cloud_win_25: 7937994546292185604
+      cloud_win_26: 1525254377274498104
+      cloud_win_27: 6242977267501981858
+      cloud_win_28: -701317799819374691
+      cloud_win_29: 350830720401200525
+      cloud_win_3: 805158212123268623
+      cloud_win_30: 8858597386068274120
+      cloud_win_31: -3171810656323802047
+      cloud_win_32: -7201099378560680962
+      cloud_win_4: 2911888824177229440
+      cloud_win_5: 7460388428410111645
+      cloud_win_6: 1805510124986565451
+      cloud_win_7: -7045278415989602960
+      cloud_win_8: 5835502975196919004
+      cloud_win_9: -5607353155739076696
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4654 @@
+fileFormatVersion: 2
+guid: f8770be57584848a2b8f8bada8224568
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8914248620601066770
+    second: rain_walk_0
+  - first:
+      213: -5888950593319249272
+    second: rain_walk_1
+  - first:
+      213: -4239683397588157054
+    second: rain_walk_2
+  - first:
+      213: 7170278832272066024
+    second: rain_walk_3
+  - first:
+      213: 350916643368954478
+    second: rain_walk_4
+  - first:
+      213: 5145194174038185801
+    second: rain_walk_5
+  - first:
+      213: 2292139896494658913
+    second: rain_walk_6
+  - first:
+      213: 1691820707896010518
+    second: rain_walk_7
+  - first:
+      213: 4144550592473921413
+    second: rain_walk_8
+  - first:
+      213: -6394672130943271912
+    second: rain_walk_9
+  - first:
+      213: 5808223264873260879
+    second: rain_walk_10
+  - first:
+      213: 9133794560028865644
+    second: rain_walk_11
+  - first:
+      213: 3645283110825586996
+    second: rain_walk_12
+  - first:
+      213: 3676726631688029114
+    second: rain_walk_13
+  - first:
+      213: 8521567346437292108
+    second: rain_walk_14
+  - first:
+      213: 4087947893992026804
+    second: rain_walk_15
+  - first:
+      213: -8511593196238085424
+    second: rain_walk_16
+  - first:
+      213: 1638452817780701546
+    second: rain_walk_17
+  - first:
+      213: 1052568230910882647
+    second: rain_walk_18
+  - first:
+      213: -4609437833913978219
+    second: rain_walk_19
+  - first:
+      213: -1777152925108781474
+    second: rain_walk_20
+  - first:
+      213: 6288653026398923618
+    second: rain_walk_21
+  - first:
+      213: 3141868677493737010
+    second: rain_walk_22
+  - first:
+      213: 5371832566819835931
+    second: rain_walk_23
+  - first:
+      213: 1536670615175303343
+    second: rain_walk_24
+  - first:
+      213: 5849751744801290474
+    second: rain_walk_25
+  - first:
+      213: -921259366900290044
+    second: rain_walk_26
+  - first:
+      213: -5050110459584005535
+    second: rain_walk_27
+  - first:
+      213: -2965572717494554088
+    second: rain_walk_28
+  - first:
+      213: -4174211516137916042
+    second: rain_walk_29
+  - first:
+      213: -883425175054520831
+    second: rain_walk_30
+  - first:
+      213: 1449556738751174060
+    second: rain_walk_31
+  - first:
+      213: 2816086060977220494
+    second: rain_walk_32
+  - first:
+      213: 3737785199502794258
+    second: rain_walk_33
+  - first:
+      213: 5651447001454537307
+    second: rain_walk_34
+  - first:
+      213: -8028526846990318848
+    second: rain_walk_35
+  - first:
+      213: -2309971864575192842
+    second: rain_walk_36
+  - first:
+      213: -4909508381584134136
+    second: rain_walk_37
+  - first:
+      213: 5420008126009494992
+    second: rain_walk_38
+  - first:
+      213: -2683599036339195704
+    second: rain_walk_39
+  - first:
+      213: 6811550831151803968
+    second: rain_walk_40
+  - first:
+      213: -8895723440395530949
+    second: rain_walk_41
+  - first:
+      213: -1214615610084667839
+    second: rain_walk_42
+  - first:
+      213: 4669690512542131989
+    second: rain_walk_43
+  - first:
+      213: 538142828613634284
+    second: rain_walk_44
+  - first:
+      213: 456661646311066606
+    second: rain_walk_45
+  - first:
+      213: 2639054977785470446
+    second: rain_walk_46
+  - first:
+      213: 8209641849721811889
+    second: rain_walk_47
+  - first:
+      213: -4663649145103764925
+    second: rain_walk_48
+  - first:
+      213: 1340808543805273574
+    second: rain_walk_49
+  - first:
+      213: -4227953028891526086
+    second: rain_walk_50
+  - first:
+      213: 6587198225475988540
+    second: rain_walk_51
+  - first:
+      213: -8048011718751851999
+    second: rain_walk_52
+  - first:
+      213: 5486897394760397478
+    second: rain_walk_53
+  - first:
+      213: -4911324385373413566
+    second: rain_walk_54
+  - first:
+      213: -7186993147157230306
+    second: rain_walk_55
+  - first:
+      213: 968575103655955503
+    second: rain_walk_56
+  - first:
+      213: -1370597483178413388
+    second: rain_walk_57
+  - first:
+      213: -7186520714705857077
+    second: rain_walk_58
+  - first:
+      213: -458191826813776746
+    second: rain_walk_59
+  - first:
+      213: -1190352606130898449
+    second: rain_walk_60
+  - first:
+      213: 1729760789747442957
+    second: rain_walk_61
+  - first:
+      213: -9154837648585213972
+    second: rain_walk_62
+  - first:
+      213: -8635509036840666781
+    second: rain_walk_63
+  - first:
+      213: -3071473325089447292
+    second: rain_walk_64
+  - first:
+      213: 8288730269415548636
+    second: rain_walk_65
+  - first:
+      213: 6784977102207579896
+    second: rain_walk_66
+  - first:
+      213: -694063570038536532
+    second: rain_walk_67
+  - first:
+      213: -6330740694546335538
+    second: rain_walk_68
+  - first:
+      213: -8787236104027307173
+    second: rain_walk_69
+  - first:
+      213: 2544629013339962324
+    second: rain_walk_70
+  - first:
+      213: 4407154368244234522
+    second: rain_walk_71
+  - first:
+      213: 6544872290401463102
+    second: rain_walk_72
+  - first:
+      213: 833167375866359381
+    second: rain_walk_73
+  - first:
+      213: -2139200264476074545
+    second: rain_walk_74
+  - first:
+      213: -1415249709605634825
+    second: rain_walk_75
+  - first:
+      213: 2781512753756170672
+    second: rain_walk_76
+  - first:
+      213: 5080780034996068710
+    second: rain_walk_77
+  - first:
+      213: -436230234231398677
+    second: rain_walk_78
+  - first:
+      213: 837110352914064247
+    second: rain_walk_79
+  - first:
+      213: 8260812420007974131
+    second: rain_walk_80
+  - first:
+      213: 218960373099918103
+    second: rain_walk_81
+  - first:
+      213: -2500604450877789058
+    second: rain_walk_82
+  - first:
+      213: -5271018095492774825
+    second: rain_walk_83
+  - first:
+      213: -1142908544816099613
+    second: rain_walk_84
+  - first:
+      213: 8327540645039555613
+    second: rain_walk_85
+  - first:
+      213: -1268261680459232587
+    second: rain_walk_86
+  - first:
+      213: -5911019734860045349
+    second: rain_walk_87
+  - first:
+      213: -2522264265765656780
+    second: rain_walk_88
+  - first:
+      213: -8491823921315000881
+    second: rain_walk_89
+  - first:
+      213: -828090782471065589
+    second: rain_walk_90
+  - first:
+      213: 1380384818424008937
+    second: rain_walk_91
+  - first:
+      213: 6803805465813442380
+    second: rain_walk_92
+  - first:
+      213: -6640266991836865591
+    second: rain_walk_93
+  - first:
+      213: -3466523536330599386
+    second: rain_walk_94
+  - first:
+      213: 3332092340614530693
+    second: rain_walk_95
+  - first:
+      213: 3429436103167452829
+    second: rain_walk_96
+  - first:
+      213: -8535626647548315589
+    second: rain_walk_97
+  - first:
+      213: -3874810005331238891
+    second: rain_walk_98
+  - first:
+      213: 2462601811068117543
+    second: rain_walk_99
+  - first:
+      213: 6991633992957195867
+    second: rain_walk_100
+  - first:
+      213: 8117399564608310462
+    second: rain_walk_101
+  - first:
+      213: 9168741471814376523
+    second: rain_walk_102
+  - first:
+      213: -1015658032560152383
+    second: rain_walk_103
+  - first:
+      213: 7142686151023872168
+    second: rain_walk_104
+  - first:
+      213: 7330524524923232264
+    second: rain_walk_105
+  - first:
+      213: 2628393287376878166
+    second: rain_walk_106
+  - first:
+      213: -6681315468538857908
+    second: rain_walk_107
+  - first:
+      213: 825194446512735774
+    second: rain_walk_108
+  - first:
+      213: -2936051678566785858
+    second: rain_walk_109
+  - first:
+      213: -1487734679121100711
+    second: rain_walk_110
+  - first:
+      213: 2223819311825435634
+    second: rain_walk_111
+  - first:
+      213: 5600419589371562189
+    second: rain_walk_112
+  - first:
+      213: -8532106004526746080
+    second: rain_walk_113
+  - first:
+      213: 8437683355714420676
+    second: rain_walk_114
+  - first:
+      213: 6835094031630966882
+    second: rain_walk_115
+  - first:
+      213: -476331133421326923
+    second: rain_walk_116
+  - first:
+      213: -6282929125353978579
+    second: rain_walk_117
+  - first:
+      213: -176758227046300215
+    second: rain_walk_118
+  - first:
+      213: 3908254033225640516
+    second: rain_walk_119
+  - first:
+      213: -789539534681039735
+    second: rain_walk_120
+  - first:
+      213: -10700514027458555
+    second: rain_walk_121
+  - first:
+      213: -7203967704122916530
+    second: rain_walk_122
+  - first:
+      213: -5173395929532326979
+    second: rain_walk_123
+  - first:
+      213: -8413987768883381374
+    second: rain_walk_124
+  - first:
+      213: -4007279507751235906
+    second: rain_walk_125
+  - first:
+      213: 5978647414263175657
+    second: rain_walk_126
+  - first:
+      213: 348138402869226218
+    second: rain_walk_127
+  - first:
+      213: -1022788789982926683
+    second: rain_walk_128
+  - first:
+      213: -2639432229676270643
+    second: rain_walk_129
+  - first:
+      213: 6183595351413719102
+    second: rain_walk_130
+  - first:
+      213: 5617546675673929750
+    second: rain_walk_131
+  - first:
+      213: -3468174245353714317
+    second: rain_walk_132
+  - first:
+      213: -7620780936659356838
+    second: rain_walk_133
+  - first:
+      213: -7155303451556544709
+    second: rain_walk_134
+  - first:
+      213: -7099919193450868334
+    second: rain_walk_135
+  - first:
+      213: 6151450588827312401
+    second: rain_walk_136
+  - first:
+      213: -7888819571602486863
+    second: rain_walk_137
+  - first:
+      213: 3648665106992204723
+    second: rain_walk_138
+  - first:
+      213: -651745751177408372
+    second: rain_walk_139
+  - first:
+      213: 4705829679449549751
+    second: rain_walk_140
+  - first:
+      213: 1098427383525585439
+    second: rain_walk_141
+  - first:
+      213: -8048432262596236731
+    second: rain_walk_142
+  - first:
+      213: 3747635440431844660
+    second: rain_walk_143
+  - first:
+      213: 5564449358321208622
+    second: rain_walk_144
+  - first:
+      213: -1459043463940550516
+    second: rain_walk_145
+  - first:
+      213: 5919249173472775643
+    second: rain_walk_146
+  - first:
+      213: -8308155416796291015
+    second: rain_walk_147
+  - first:
+      213: 2563627753573468038
+    second: rain_walk_148
+  - first:
+      213: 4715422440306811478
+    second: rain_walk_149
+  - first:
+      213: 4910918753379956092
+    second: rain_walk_150
+  - first:
+      213: -5501779686510178708
+    second: rain_walk_151
+  - first:
+      213: 4233317104997454570
+    second: rain_walk_152
+  - first:
+      213: -6835428199100100857
+    second: rain_walk_153
+  - first:
+      213: 5054928770145185413
+    second: rain_walk_154
+  - first:
+      213: -7481174948582306360
+    second: rain_walk_155
+  - first:
+      213: 1547724309695365305
+    second: rain_walk_156
+  - first:
+      213: 8848890609892950099
+    second: rain_walk_157
+  - first:
+      213: 7206198157138840296
+    second: rain_walk_158
+  - first:
+      213: 2143187123706664711
+    second: rain_walk_159
+  - first:
+      213: 2208237946116342526
+    second: rain_walk_160
+  - first:
+      213: -8995888084729746658
+    second: rain_walk_161
+  - first:
+      213: 8498843371704060608
+    second: rain_walk_162
+  - first:
+      213: 3642102694326889284
+    second: rain_walk_163
+  - first:
+      213: -2115580572197809107
+    second: rain_walk_164
+  - first:
+      213: -1344002811812448479
+    second: rain_walk_165
+  - first:
+      213: -5559245503297295476
+    second: rain_walk_166
+  - first:
+      213: -8476032590781740014
+    second: rain_walk_167
+  - first:
+      213: -3831577463345439975
+    second: rain_walk_168
+  - first:
+      213: 8460552515785150124
+    second: rain_walk_169
+  - first:
+      213: -5264468693247035137
+    second: rain_walk_170
+  - first:
+      213: -5857572270145502617
+    second: rain_walk_171
+  - first:
+      213: -635661013257769371
+    second: rain_walk_172
+  - first:
+      213: 2402713598901543191
+    second: rain_walk_173
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rain_walk_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1538
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeabe89fb1a3a4480800000000000000
+      internalID: -8914248620601066770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1538
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a5169e2ae364ea0800000000000000
+      internalID: -5888950593319249272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1538
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28df2a6a96e9925c0800000000000000
+      internalID: -4239683397588157054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1538
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e54412bb92f18360800000000000000
+      internalID: 7170278832272066024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1538
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a67c1f3d4bed400800000000000000
+      internalID: 350916643368954478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1538
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94794f347d6676740800000000000000
+      internalID: 5145194174038185801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1538
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165901277115fcf10800000000000000
+      internalID: 2292139896494658913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1474
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617aacd58fd8a7710800000000000000
+      internalID: 1691820707896010518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1474
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fa0a1ec6648930800000000000000
+      internalID: 4144550592473921413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1474
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c390cc39f8147a0800000000000000
+      internalID: -6394672130943271912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1474
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f472eee3944fa9050800000000000000
+      internalID: 5808223264873260879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1474
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c647ae962c1c1ce70800000000000000
+      internalID: 9133794560028865644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1474
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4317d7efca5a69230800000000000000
+      internalID: 3645283110825586996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_13
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1474
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3cbf1346b560330800000000000000
+      internalID: 3676726631688029114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4086f53a50b24670800000000000000
+      internalID: 8521567346437292108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b273b163fe4bb830800000000000000
+      internalID: 4087947893992026804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_16
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2e899951fb0e980800000000000000
+      internalID: -8511593196238085424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a697e092824fcb610800000000000000
+      internalID: 1638452817780701546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753fd41ba397b9e00800000000000000
+      internalID: 1052568230910882647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592bf4f36bcf700c0800000000000000
+      internalID: -4609437833913978219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1410
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e385394d84657e0800000000000000
+      internalID: -1777152925108781474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1346
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b613adb98c54750800000000000000
+      internalID: 6288653026398923618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_22
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1346
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236c0f47ae82a9b20800000000000000
+      internalID: 3141868677493737010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1346
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10db2222459c8a40800000000000000
+      internalID: 5371832566819835931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_24
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1346
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa01e4a68c9535510800000000000000
+      internalID: 1536670615175303343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_25
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1346
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae83a15f73e7e2150800000000000000
+      internalID: 5849751744801290474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1346
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e28e1ac770733f0800000000000000
+      internalID: -921259366900290044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1346
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ab20c2b476ae9b0800000000000000
+      internalID: -5050110459584005535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1282
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812b522635b28d6d0800000000000000
+      internalID: -2965572717494554088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1282
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6793143fdb83216c0800000000000000
+      internalID: -4174211516137916042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1282
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10eec3fdb717db3f0800000000000000
+      internalID: -883425175054520831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1282
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5990f7c2cdd1410800000000000000
+      internalID: 1449556738751174060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1282
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8be9792a5fb41720800000000000000
+      internalID: 2816086060977220494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1282
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e9317d5d74fd330800000000000000
+      internalID: 3737785199502794258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_34
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1282
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae4acea19fd6e40800000000000000
+      internalID: 5651447001454537307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_35
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1218
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003847f9e51f49090800000000000000
+      internalID: -8028526846990318848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_36
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1218
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f059d2f3d451ffd0800000000000000
+      internalID: -2309971864575192842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1218
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800ffdd732ceddbb0800000000000000
+      internalID: -4909508381584134136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1218
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddc6869cacb73b40800000000000000
+      internalID: 5420008126009494992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_39
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1218
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0fb6f05e0f1cad0800000000000000
+      internalID: -2683599036339195704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_40
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1218
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ee15c446d778e50800000000000000
+      internalID: 6811550831151803968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_41
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1218
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dcb1b99aa0c8480800000000000000
+      internalID: -8895723440395530949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1154
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e4246b981d42fe0800000000000000
+      internalID: -1214615610084667839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1154
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517e513b7c21ec040800000000000000
+      internalID: 4669690512542131989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1154
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce880f92d0ed77700800000000000000
+      internalID: 538142828613634284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_45
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1154
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb8aea0953665600800000000000000
+      internalID: 456661646311066606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_46
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1154
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed11ad158ecf9420800000000000000
+      internalID: 2639054977785470446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_47
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1154
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b379d904c18ee170800000000000000
+      internalID: 8209641849721811889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_48
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1154
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3423905cfc3674fb0800000000000000
+      internalID: -4663649145103764925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1090
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5725544428b9210800000000000000
+      internalID: 1340808543805273574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1090
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c32e1fe1b4355c0800000000000000
+      internalID: -4227953028891526086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_51
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1090
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c6496b2ed6a6b50800000000000000
+      internalID: 6587198225475988540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_52
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1090
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a6d936bf7bf4090800000000000000
+      internalID: -8048011718751851999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_53
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1090
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2b5b51c10652c40800000000000000
+      internalID: 5486897394760397478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_54
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1090
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f9a192e7877dbb0800000000000000
+      internalID: -4911324385373413566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_55
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1090
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dc68c9fcba24c90800000000000000
+      internalID: -7186993147157230306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1026
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c43bfcce1117d00800000000000000
+      internalID: 968575103655955503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_57
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1026
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b23b1dc9d8aafce0800000000000000
+      internalID: -1370597483178413388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1026
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc598fc5c79544c90800000000000000
+      internalID: -7186520714705857077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_59
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1026
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c07cb06fc24a9f0800000000000000
+      internalID: -458191826813776746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_60
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1026
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe97b1a8c940b7fe0800000000000000
+      internalID: -1190352606130898449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_61
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1026
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05ab4b0648510810800000000000000
+      internalID: 1729760789747442957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_62
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1026
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7b4bbb9ab73f080800000000000000
+      internalID: -9154837648585213972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_63
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 962
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369bf6ca842882880800000000000000
+      internalID: -8635509036840666781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_64
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 962
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482a4f0c84fef55d0800000000000000
+      internalID: -3071473325089447292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_65
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 962
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6aa83b34c770370800000000000000
+      internalID: 8288730269415548636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_66
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 962
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6fd32e9b4192e50800000000000000
+      internalID: 6784977102207579896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_67
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 962
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca640504cd03e56f0800000000000000
+      internalID: -694063570038536532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_68
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 962
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8b47841e0b428a0800000000000000
+      internalID: -6330740694546335538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_69
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 962
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5307f5f1577d0680800000000000000
+      internalID: -8787236104027307173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 898
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbf7490b96505320800000000000000
+      internalID: 2544629013339962324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_71
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 898
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19328d3c8b592d30800000000000000
+      internalID: 4407154368244234522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_72
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 898
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b2da10cae04da50800000000000000
+      internalID: 6544872290401463102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_73
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 898
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e65f46051009b00800000000000000
+      internalID: 833167375866359381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_74
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 898
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd5b7481b80052e0800000000000000
+      internalID: -2139200264476074545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_75
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 898
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc3b7e23e50c5ce0800000000000000
+      internalID: -1415249709605634825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 898
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9ead9cc1be99620800000000000000
+      internalID: 2781512753756170672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_77
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 834
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66166dfc58e828640800000000000000
+      internalID: 5080780034996068710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_78
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 834
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee1a58c9e232f9f0800000000000000
+      internalID: -436230234231398677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 834
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ae374e630e9b00800000000000000
+      internalID: 837110352914064247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_80
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 834
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4d5bad02d44a270800000000000000
+      internalID: 8260812420007974131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_81
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 834
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f18a9c47e90300800000000000000
+      internalID: 218960373099918103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_82
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 834
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c2bad20811c4dd0800000000000000
+      internalID: -2500604450877789058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_83
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 834
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7544f7d18f499d6b0800000000000000
+      internalID: -5271018095492774825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 770
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee4a7fdbb29320f0800000000000000
+      internalID: -1142908544816099613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_85
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 770
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c530781e519370800000000000000
+      internalID: 8327540645039555613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_86
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 770
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baccfd98ba366ee0800000000000000
+      internalID: -1268261680459232587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_87
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 770
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3e75b7ed6d7fda0800000000000000
+      internalID: -5911019734860045349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_88
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 770
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4376069830e1ffcd0800000000000000
+      internalID: -2522264265765656780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_89
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 770
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdcada922bf62a80800000000000000
+      internalID: -8491823921315000881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_90
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 770
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00790d12d70284f0800000000000000
+      internalID: -828090782471065589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 706
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e05183cdac182310800000000000000
+      internalID: 1380384818424008937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_92
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 706
+        width: 46
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fdba6e509fb6e50800000000000000
+      internalID: 6803805465813442380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_93
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 706
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbdfc14a5809d3a0800000000000000
+      internalID: -6640266991836865591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_94
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 706
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624db7bc53f64efc0800000000000000
+      internalID: -3466523536330599386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_95
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 706
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58601216458fd3e20800000000000000
+      internalID: 3332092340614530693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_96
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 706
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96223547fdc79f20800000000000000
+      internalID: 3429436103167452829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_97
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 706
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b383689a9cc5b8980800000000000000
+      internalID: -8535626647548315589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_98
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 642
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5102a1c64d8e93ac0800000000000000
+      internalID: -3874810005331238891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_99
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 642
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722e2fbbc4bec2220800000000000000
+      internalID: 2462601811068117543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_100
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 642
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5672c5c216470160800000000000000
+      internalID: 6991633992957195867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_101
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 642
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc836c65ebc6a070800000000000000
+      internalID: 8117399564608310462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_102
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 642
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c53e06ac9ed3f70800000000000000
+      internalID: 9168741471814376523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_103
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 642
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0eafb8668a7e1f0800000000000000
+      internalID: -1015658032560152383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_104
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 642
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a841e5f53bef1360800000000000000
+      internalID: 7142686151023872168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_105
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 578
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a65577314bb560800000000000000
+      internalID: 7330524524923232264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 578
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65abe10e4cde97420800000000000000
+      internalID: 2628393287376878166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_107
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 578
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c463b610bf23743a0800000000000000
+      internalID: -6681315468538857908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_108
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 578
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16440f1afda37b00800000000000000
+      internalID: 825194446512735774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_109
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 578
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc56d0ed8c0147d0800000000000000
+      internalID: -2936051678566785858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_110
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 578
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95005f211318a5be0800000000000000
+      internalID: -1487734679121100711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_111
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 578
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb320eb1e79cde10800000000000000
+      internalID: 2223819311825435634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_112
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 514
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc881a9b1ffa8bd40800000000000000
+      internalID: 5600419589371562189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_113
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 514
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026b43e3bced79980800000000000000
+      internalID: -8532106004526746080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_114
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 514
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf7598ae4ca81570800000000000000
+      internalID: 8437683355714420676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_115
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 514
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260a1c1dec12bde50800000000000000
+      internalID: 6835094031630966882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 514
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd66fc9b5bb369f0800000000000000
+      internalID: -476331133421326923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 514
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d250256bf3d8ec8a0800000000000000
+      internalID: -6282929125353978579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_118
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 514
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c507c934570c8df0800000000000000
+      internalID: -176758227046300215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_119
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 450
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ae66e1658ec3630800000000000000
+      internalID: 3908254033225640516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_120
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 450
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c9533f9fdfa05f0800000000000000
+      internalID: -789539534681039735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_121
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 450
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500ba7e60fbf9dff0800000000000000
+      internalID: -10700514027458555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_122
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 450
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e410e569a8d560c90800000000000000
+      internalID: -7203967704122916530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_123
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 450
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb16c9dfc76438b0800000000000000
+      internalID: -5173395929532326979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_124
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 450
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b793314b28b3b80800000000000000
+      internalID: -8413987768883381374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_125
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 450
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe09c8e4884368c0800000000000000
+      internalID: -4007279507751235906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_126
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 386
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9d674a52c68f250800000000000000
+      internalID: 5978647414263175657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_127
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 386
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea21bb6806d4d400800000000000000
+      internalID: 348138402869226218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_128
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 386
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8e0d4b3035ec1f0800000000000000
+      internalID: -1022788789982926683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_129
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 386
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbbd651f5ade5bd0800000000000000
+      internalID: -2639432229676270643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_130
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 386
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3085c3c53b80d550800000000000000
+      internalID: 6183595351413719102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_131
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 386
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61898b040f885fd40800000000000000
+      internalID: 5617546675673929750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_132
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 386
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d888626e19edfc0800000000000000
+      internalID: -3468174245353714317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 322
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53b95f5d1c8d3690800000000000000
+      internalID: -7620780936659356838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 322
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f78d5db6143bc90800000000000000
+      internalID: -7155303451556544709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_135
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 322
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291126c4c15087d90800000000000000
+      internalID: -7099919193450868334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_136
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 322
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1116b6008b75e5550800000000000000
+      internalID: 6151450588827312401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_137
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 322
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b90c797568458290800000000000000
+      internalID: -7888819571602486863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_138
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 322
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb02a65599a2a230800000000000000
+      internalID: 3648665106992204723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_139
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 322
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80533141b884f6f0800000000000000
+      internalID: -651745751177408372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_140
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 258
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bba41139277e4140800000000000000
+      internalID: 4705829679449549751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_141
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 258
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ba96b2e56e3f00800000000000000
+      internalID: 1098427383525585439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_142
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 258
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a6825ef793e4090800000000000000
+      internalID: -8048432262596236731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_143
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 258
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dca96c396420430800000000000000
+      internalID: 3747635440431844660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_144
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 258
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc26da535e83d40800000000000000
+      internalID: 5564449358321208622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_145
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 258
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80d7fb23bf60cbe0800000000000000
+      internalID: -1459043463940550516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_146
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 258
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd8ed103c5652250800000000000000
+      internalID: 5919249173472775643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_147
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 194
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930ae1bbaa083bc80800000000000000
+      internalID: -8308155416796291015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_148
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 194
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6874414fbd5d39320800000000000000
+      internalID: 2563627753573468038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_149
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 194
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652a460e9bb807140800000000000000
+      internalID: 4715422440306811478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_150
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 194
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7534084696172440800000000000000
+      internalID: 4910918753379956092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_151
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 194
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ec9195680c5a3b0800000000000000
+      internalID: -5501779686510178708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_152
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 194
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae255f85a73cfba30800000000000000
+      internalID: 4233317104997454570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_153
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 194
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f43f0c44ea321a0800000000000000
+      internalID: -6835428199100100857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_154
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ee76d2fe6b62640800000000000000
+      internalID: 5054928770145185413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_155
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 130
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd433f65078d2890800000000000000
+      internalID: -7481174948582306360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_156
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 130
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b001a93f0f9a7510800000000000000
+      internalID: 1547724309695365305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_157
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 130
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35085f250239dca70800000000000000
+      internalID: 8848890609892950099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_158
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 130
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac5593b0f810460800000000000000
+      internalID: 7206198157138840296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_159
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 130
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7071abb75512ebd10800000000000000
+      internalID: 2143187123706664711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_160
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 130
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef28dc556bc35ae10800000000000000
+      internalID: 2208237946116342526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_161
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba38ef27f282380800000000000000
+      internalID: -8995888084729746658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_162
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 66
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca8a1c8405f1f570800000000000000
+      internalID: 8498843371704060608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_163
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44be8d29a195b8230800000000000000
+      internalID: 3642102694326889284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_164
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 66
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d249e6cada2f3a2e0800000000000000
+      internalID: -2115580572197809107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_165
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 66
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127fac04094295de0800000000000000
+      internalID: -1344002811812448479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_166
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 66
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8be6cc3ba799d2b0800000000000000
+      internalID: -5559245503297295476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_167
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 66
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c02d144451f5a80800000000000000
+      internalID: -8476032590781740014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_168
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b17eff89083dac0800000000000000
+      internalID: -3831577463345439975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_169
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae49eaefabe96570800000000000000
+      internalID: 8460552515785150124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_170
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff878d7ad99d0f6b0800000000000000
+      internalID: -5264468693247035137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_171
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 5
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7628cc71e09b5bea0800000000000000
+      internalID: -5857572270145502617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_172
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 5
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ea4332dadad27f0800000000000000
+      internalID: -635661013257769371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_walk_173
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 5
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711e68fb947285120800000000000000
+      internalID: 2402713598901543191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rain_walk_0: -8914248620601066770
+      rain_walk_1: -5888950593319249272
+      rain_walk_10: 5808223264873260879
+      rain_walk_100: 6991633992957195867
+      rain_walk_101: 8117399564608310462
+      rain_walk_102: 9168741471814376523
+      rain_walk_103: -1015658032560152383
+      rain_walk_104: 7142686151023872168
+      rain_walk_105: 7330524524923232264
+      rain_walk_106: 2628393287376878166
+      rain_walk_107: -6681315468538857908
+      rain_walk_108: 825194446512735774
+      rain_walk_109: -2936051678566785858
+      rain_walk_11: 9133794560028865644
+      rain_walk_110: -1487734679121100711
+      rain_walk_111: 2223819311825435634
+      rain_walk_112: 5600419589371562189
+      rain_walk_113: -8532106004526746080
+      rain_walk_114: 8437683355714420676
+      rain_walk_115: 6835094031630966882
+      rain_walk_116: -476331133421326923
+      rain_walk_117: -6282929125353978579
+      rain_walk_118: -176758227046300215
+      rain_walk_119: 3908254033225640516
+      rain_walk_12: 3645283110825586996
+      rain_walk_120: -789539534681039735
+      rain_walk_121: -10700514027458555
+      rain_walk_122: -7203967704122916530
+      rain_walk_123: -5173395929532326979
+      rain_walk_124: -8413987768883381374
+      rain_walk_125: -4007279507751235906
+      rain_walk_126: 5978647414263175657
+      rain_walk_127: 348138402869226218
+      rain_walk_128: -1022788789982926683
+      rain_walk_129: -2639432229676270643
+      rain_walk_13: 3676726631688029114
+      rain_walk_130: 6183595351413719102
+      rain_walk_131: 5617546675673929750
+      rain_walk_132: -3468174245353714317
+      rain_walk_133: -7620780936659356838
+      rain_walk_134: -7155303451556544709
+      rain_walk_135: -7099919193450868334
+      rain_walk_136: 6151450588827312401
+      rain_walk_137: -7888819571602486863
+      rain_walk_138: 3648665106992204723
+      rain_walk_139: -651745751177408372
+      rain_walk_14: 8521567346437292108
+      rain_walk_140: 4705829679449549751
+      rain_walk_141: 1098427383525585439
+      rain_walk_142: -8048432262596236731
+      rain_walk_143: 3747635440431844660
+      rain_walk_144: 5564449358321208622
+      rain_walk_145: -1459043463940550516
+      rain_walk_146: 5919249173472775643
+      rain_walk_147: -8308155416796291015
+      rain_walk_148: 2563627753573468038
+      rain_walk_149: 4715422440306811478
+      rain_walk_15: 4087947893992026804
+      rain_walk_150: 4910918753379956092
+      rain_walk_151: -5501779686510178708
+      rain_walk_152: 4233317104997454570
+      rain_walk_153: -6835428199100100857
+      rain_walk_154: 5054928770145185413
+      rain_walk_155: -7481174948582306360
+      rain_walk_156: 1547724309695365305
+      rain_walk_157: 8848890609892950099
+      rain_walk_158: 7206198157138840296
+      rain_walk_159: 2143187123706664711
+      rain_walk_16: -8511593196238085424
+      rain_walk_160: 2208237946116342526
+      rain_walk_161: -8995888084729746658
+      rain_walk_162: 8498843371704060608
+      rain_walk_163: 3642102694326889284
+      rain_walk_164: -2115580572197809107
+      rain_walk_165: -1344002811812448479
+      rain_walk_166: -5559245503297295476
+      rain_walk_167: -8476032590781740014
+      rain_walk_168: -3831577463345439975
+      rain_walk_169: 8460552515785150124
+      rain_walk_17: 1638452817780701546
+      rain_walk_170: -5264468693247035137
+      rain_walk_171: -5857572270145502617
+      rain_walk_172: -635661013257769371
+      rain_walk_173: 2402713598901543191
+      rain_walk_18: 1052568230910882647
+      rain_walk_19: -4609437833913978219
+      rain_walk_2: -4239683397588157054
+      rain_walk_20: -1777152925108781474
+      rain_walk_21: 6288653026398923618
+      rain_walk_22: 3141868677493737010
+      rain_walk_23: 5371832566819835931
+      rain_walk_24: 1536670615175303343
+      rain_walk_25: 5849751744801290474
+      rain_walk_26: -921259366900290044
+      rain_walk_27: -5050110459584005535
+      rain_walk_28: -2965572717494554088
+      rain_walk_29: -4174211516137916042
+      rain_walk_3: 7170278832272066024
+      rain_walk_30: -883425175054520831
+      rain_walk_31: 1449556738751174060
+      rain_walk_32: 2816086060977220494
+      rain_walk_33: 3737785199502794258
+      rain_walk_34: 5651447001454537307
+      rain_walk_35: -8028526846990318848
+      rain_walk_36: -2309971864575192842
+      rain_walk_37: -4909508381584134136
+      rain_walk_38: 5420008126009494992
+      rain_walk_39: -2683599036339195704
+      rain_walk_4: 350916643368954478
+      rain_walk_40: 6811550831151803968
+      rain_walk_41: -8895723440395530949
+      rain_walk_42: -1214615610084667839
+      rain_walk_43: 4669690512542131989
+      rain_walk_44: 538142828613634284
+      rain_walk_45: 456661646311066606
+      rain_walk_46: 2639054977785470446
+      rain_walk_47: 8209641849721811889
+      rain_walk_48: -4663649145103764925
+      rain_walk_49: 1340808543805273574
+      rain_walk_5: 5145194174038185801
+      rain_walk_50: -4227953028891526086
+      rain_walk_51: 6587198225475988540
+      rain_walk_52: -8048011718751851999
+      rain_walk_53: 5486897394760397478
+      rain_walk_54: -4911324385373413566
+      rain_walk_55: -7186993147157230306
+      rain_walk_56: 968575103655955503
+      rain_walk_57: -1370597483178413388
+      rain_walk_58: -7186520714705857077
+      rain_walk_59: -458191826813776746
+      rain_walk_6: 2292139896494658913
+      rain_walk_60: -1190352606130898449
+      rain_walk_61: 1729760789747442957
+      rain_walk_62: -9154837648585213972
+      rain_walk_63: -8635509036840666781
+      rain_walk_64: -3071473325089447292
+      rain_walk_65: 8288730269415548636
+      rain_walk_66: 6784977102207579896
+      rain_walk_67: -694063570038536532
+      rain_walk_68: -6330740694546335538
+      rain_walk_69: -8787236104027307173
+      rain_walk_7: 1691820707896010518
+      rain_walk_70: 2544629013339962324
+      rain_walk_71: 4407154368244234522
+      rain_walk_72: 6544872290401463102
+      rain_walk_73: 833167375866359381
+      rain_walk_74: -2139200264476074545
+      rain_walk_75: -1415249709605634825
+      rain_walk_76: 2781512753756170672
+      rain_walk_77: 5080780034996068710
+      rain_walk_78: -436230234231398677
+      rain_walk_79: 837110352914064247
+      rain_walk_8: 4144550592473921413
+      rain_walk_80: 8260812420007974131
+      rain_walk_81: 218960373099918103
+      rain_walk_82: -2500604450877789058
+      rain_walk_83: -5271018095492774825
+      rain_walk_84: -1142908544816099613
+      rain_walk_85: 8327540645039555613
+      rain_walk_86: -1268261680459232587
+      rain_walk_87: -5911019734860045349
+      rain_walk_88: -2522264265765656780
+      rain_walk_89: -8491823921315000881
+      rain_walk_9: -6394672130943271912
+      rain_walk_90: -828090782471065589
+      rain_walk_91: 1380384818424008937
+      rain_walk_92: 6803805465813442380
+      rain_walk_93: -6640266991836865591
+      rain_walk_94: -3466523536330599386
+      rain_walk_95: 3332092340614530693
+      rain_walk_96: 3429436103167452829
+      rain_walk_97: -8535626647548315589
+      rain_walk_98: -3874810005331238891
+      rain_walk_99: 2462601811068117543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

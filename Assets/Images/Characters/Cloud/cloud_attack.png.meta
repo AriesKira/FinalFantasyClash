@@ -1,0 +1,954 @@
+fileFormatVersion: 2
+guid: 1c915aa1b8b9b48f1ab5e121c6c8f624
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5881544150767027009
+    second: cloud_attack_0
+  - first:
+      213: 4424888066696660631
+    second: cloud_attack_1
+  - first:
+      213: 6797356734464103116
+    second: cloud_attack_2
+  - first:
+      213: 4483522322003890755
+    second: cloud_attack_3
+  - first:
+      213: -6885992404656595327
+    second: cloud_attack_4
+  - first:
+      213: -1373475721115265210
+    second: cloud_attack_5
+  - first:
+      213: 8389635408219967233
+    second: cloud_attack_6
+  - first:
+      213: -4627739091575831021
+    second: cloud_attack_7
+  - first:
+      213: -5181686144261675788
+    second: cloud_attack_8
+  - first:
+      213: 1544438116048603432
+    second: cloud_attack_9
+  - first:
+      213: 4570539944580249992
+    second: cloud_attack_10
+  - first:
+      213: 6910550384780357945
+    second: cloud_attack_11
+  - first:
+      213: 6010750042833127216
+    second: cloud_attack_12
+  - first:
+      213: 8509523150317839680
+    second: cloud_attack_13
+  - first:
+      213: 1338008487225190239
+    second: cloud_attack_14
+  - first:
+      213: 8694027546887291900
+    second: cloud_attack_15
+  - first:
+      213: 6350159127867253283
+    second: cloud_attack_16
+  - first:
+      213: -3392703580782937478
+    second: cloud_attack_17
+  - first:
+      213: 992376503396204889
+    second: cloud_attack_18
+  - first:
+      213: -2789254722688024031
+    second: cloud_attack_19
+  - first:
+      213: -7451448510925343544
+    second: cloud_attack_20
+  - first:
+      213: 6256609983782231337
+    second: cloud_attack_21
+  - first:
+      213: 7312963738317854025
+    second: cloud_attack_22
+  - first:
+      213: 8023482647321654172
+    second: cloud_attack_23
+  - first:
+      213: -7414930823678423119
+    second: cloud_attack_24
+  - first:
+      213: -8849288171972889454
+    second: cloud_attack_25
+  - first:
+      213: -7671457371982655196
+    second: cloud_attack_26
+  - first:
+      213: 4089819813214624418
+    second: cloud_attack_27
+  - first:
+      213: -3664765039635951153
+    second: cloud_attack_28
+  - first:
+      213: -7464451633063074804
+    second: cloud_attack_29
+  - first:
+      213: -6749996609924434851
+    second: cloud_attack_30
+  - first:
+      213: 1793407505229567043
+    second: cloud_attack_31
+  - first:
+      213: -7116472371127902284
+    second: cloud_attack_32
+  - first:
+      213: -3052670914018790877
+    second: cloud_attack_33
+  - first:
+      213: 993712036814121524
+    second: cloud_attack_34
+  - first:
+      213: 742776826074277581
+    second: cloud_attack_35
+  - first:
+      213: 9018198984675022382
+    second: cloud_attack_36
+  - first:
+      213: -5452561141551740632
+    second: cloud_attack_37
+  - first:
+      213: 7197620958046516017
+    second: cloud_attack_38
+  - first:
+      213: 853662425375301162
+    second: cloud_attack_39
+  - first:
+      213: -4390523441101223715
+    second: cloud_attack_40
+  - first:
+      213: -2253200753330530307
+    second: cloud_attack_41
+  - first:
+      213: 5855565426527909436
+    second: cloud_attack_42
+  - first:
+      213: -7579535220397424286
+    second: cloud_attack_43
+  - first:
+      213: -4035364979946247792
+    second: cloud_attack_44
+  - first:
+      213: -5443948634717416373
+    second: cloud_attack_45
+  - first:
+      213: 5510435507525426234
+    second: cloud_attack_46
+  - first:
+      213: -8392545826375716366
+    second: cloud_attack_47
+  - first:
+      213: 4945017403491827572
+    second: cloud_attack_48
+  - first:
+      213: 1893145122077248747
+    second: cloud_attack_49
+  - first:
+      213: 2760434129302620030
+    second: cloud_attack_50
+  - first:
+      213: 7222140566004188324
+    second: cloud_attack_51
+  - first:
+      213: 3321849255418348088
+    second: cloud_attack_52
+  - first:
+      213: -7030687666524211777
+    second: cloud_attack_53
+  - first:
+      213: 2358659396818173951
+    second: cloud_attack_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloud_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 825
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143ce3d4e317f9150800000000000000
+      internalID: 5881544150767027009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_1
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 825
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796c15aa04c586d30800000000000000
+      internalID: 4424888066696660631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_2
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 825
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc29751afef055e50800000000000000
+      internalID: 6797356734464103116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_3
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 825
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34293911ccba83e30800000000000000
+      internalID: 4483522322003890755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_4
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 825
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ed76a346a0070a0800000000000000
+      internalID: -6885992404656595327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6471d4fcb1f60fce0800000000000000
+      internalID: -1373475721115265210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 660
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f8dfd14f8fd6470800000000000000
+      internalID: 8389635408219967233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_7
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 660
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3160f65a0d7f6cfb0800000000000000
+      internalID: -4627739091575831021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_8
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 660
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f428b1d7e3f618b0800000000000000
+      internalID: -5181686144261675788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_9
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 660
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82986a4a842fe6510800000000000000
+      internalID: 1544438116048603432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88970742dd1dd6f30800000000000000
+      internalID: 4570539944580249992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 495
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931b54716f437ef50800000000000000
+      internalID: 6910550384780357945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_12
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 495
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0378bb051597a6350800000000000000
+      internalID: 6010750042833127216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_13
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 495
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04568a64836e71670800000000000000
+      internalID: 8509523150317839680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_14
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 495
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57e38b41af819210800000000000000
+      internalID: 1338008487225190239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf38dafadf367a870800000000000000
+      internalID: 8694027546887291900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 330
+        width: 880
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3226bbb051c402850800000000000000
+      internalID: 6350159127867253283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_17
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 330
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.34134132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7abc3f8112bae0d0800000000000000
+      internalID: -3392703580782937478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_18
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 330
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5000003, y: 0.30167642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95100680c21a5cd00800000000000000
+      internalID: 992376503396204889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_19
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 330
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.49628186, y: 0.34134132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122891a9b939a49d0800000000000000
+      internalID: -2789254722688024031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4925629, y: 0.32150787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c47e2c0f03279890800000000000000
+      internalID: -7451448510925343544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_21
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 165
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.47768873, y: 0.3016754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d908d91a1f3d650800000000000000
+      internalID: 6256609983782231337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_22
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 165
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.47397017, y: 0.2620106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9459fb536cddc7560800000000000000
+      internalID: 7312963738317854025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_23
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 165
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.47025174, y: 0.2620106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c933e1f15f2295f60800000000000000
+      internalID: 8023482647321654172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_24
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 165
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.48512602, y: 0.22234571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf8d8ca3bfd81990800000000000000
+      internalID: -7414930823678423119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.47397, y: 0.30167556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2947d7a0b43013580800000000000000
+      internalID: -8849288171972889454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_26
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.4702516, y: 0.28184316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4211c615a22898590800000000000000
+      internalID: -7671457371982655196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_attack_27
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 0
+        width: 880
+        height: 165
+      alignment: 9
+      pivot: {x: 0.47397017, y: 0.22234589}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa130a8375f1c830800000000000000
+      internalID: 4089819813214624418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7c95def4b712448f9fb9bc7bf863b0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":6.0},"gridSpriteSize":{"x":880.0,"y":165.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      cloud_attack_0: 5881544150767027009
+      cloud_attack_1: 4424888066696660631
+      cloud_attack_10: 4570539944580249992
+      cloud_attack_11: 6910550384780357945
+      cloud_attack_12: 6010750042833127216
+      cloud_attack_13: 8509523150317839680
+      cloud_attack_14: 1338008487225190239
+      cloud_attack_15: 8694027546887291900
+      cloud_attack_16: 6350159127867253283
+      cloud_attack_17: -3392703580782937478
+      cloud_attack_18: 992376503396204889
+      cloud_attack_19: -2789254722688024031
+      cloud_attack_2: 6797356734464103116
+      cloud_attack_20: -7451448510925343544
+      cloud_attack_21: 6256609983782231337
+      cloud_attack_22: 7312963738317854025
+      cloud_attack_23: 8023482647321654172
+      cloud_attack_24: -7414930823678423119
+      cloud_attack_25: -8849288171972889454
+      cloud_attack_26: -7671457371982655196
+      cloud_attack_27: 4089819813214624418
+      cloud_attack_3: 4483522322003890755
+      cloud_attack_4: -6885992404656595327
+      cloud_attack_5: -1373475721115265210
+      cloud_attack_6: 8389635408219967233
+      cloud_attack_7: -4627739091575831021
+      cloud_attack_8: -5181686144261675788
+      cloud_attack_9: 1544438116048603432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

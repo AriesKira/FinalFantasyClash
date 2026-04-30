@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: a93bdd069582247a99cd5354d92601c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8768270698403830899
+    second: fina_attack_0
+  - first:
+      213: 3780390789843690889
+    second: fina_attack_1
+  - first:
+      213: 3409527512806493023
+    second: fina_attack_2
+  - first:
+      213: 5644794262961269708
+    second: fina_attack_3
+  - first:
+      213: -8878274025241195987
+    second: fina_attack_4
+  - first:
+      213: -7513375966176954620
+    second: fina_attack_5
+  - first:
+      213: 9025875796452550625
+    second: fina_attack_6
+  - first:
+      213: -6568761441212926565
+    second: fina_attack_7
+  - first:
+      213: 6680844482865550312
+    second: fina_attack_8
+  - first:
+      213: 1356086023932194355
+    second: fina_attack_9
+  - first:
+      213: -561395845858362214
+    second: fina_attack_10
+  - first:
+      213: -2771535871131415742
+    second: fina_attack_11
+  - first:
+      213: 7752115805062190313
+    second: fina_attack_12
+  - first:
+      213: 6373085278872624324
+    second: fina_attack_13
+  - first:
+      213: -8131067593386272204
+    second: fina_attack_14
+  - first:
+      213: 122064017699767797
+    second: fina_attack_15
+  - first:
+      213: -6101579427834929580
+    second: fina_attack_16
+  - first:
+      213: -1382138263622495609
+    second: fina_attack_17
+  - first:
+      213: -8235165434714926450
+    second: fina_attack_18
+  - first:
+      213: -7481988678129965572
+    second: fina_attack_19
+  - first:
+      213: 3166856033491302729
+    second: fina_attack_20
+  - first:
+      213: -7141529341649470356
+    second: fina_attack_21
+  - first:
+      213: 4753651202149667865
+    second: fina_attack_22
+  - first:
+      213: -735437358665543102
+    second: fina_attack_23
+  - first:
+      213: -3945549887786317121
+    second: fina_attack_24
+  - first:
+      213: -7842262803810134293
+    second: fina_attack_25
+  - first:
+      213: -5409124959891861450
+    second: fina_attack_26
+  - first:
+      213: 1073709409064292075
+    second: fina_attack_27
+  - first:
+      213: 4315217714336719284
+    second: fina_attack_28
+  - first:
+      213: 6951355623102136887
+    second: fina_attack_29
+  - first:
+      213: 1902091549535565727
+    second: fina_attack_30
+  - first:
+      213: -9023814944056084767
+    second: fina_attack_31
+  - first:
+      213: -992183002618432464
+    second: fina_attack_32
+  - first:
+      213: 4641504647375123966
+    second: fina_attack_33
+  - first:
+      213: 792262030722892248
+    second: fina_attack_34
+  - first:
+      213: -8789628647659048831
+    second: fina_attack_35
+  - first:
+      213: -2004087182274343273
+    second: fina_attack_36
+  - first:
+      213: 2307509205349573556
+    second: fina_attack_37
+  - first:
+      213: 3769059560670315463
+    second: fina_attack_38
+  - first:
+      213: -2515125070777606261
+    second: fina_attack_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fina_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d836c2f8148d05680800000000000000
+      internalID: -8768270698403830899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_1
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 426
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985aaccd465a67430800000000000000
+      internalID: 3780390789843690889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 426
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b80cc5533115f20800000000000000
+      internalID: 3409527512806493023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 426
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb28f98976565e40800000000000000
+      internalID: 5644794262961269708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_4
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 426
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2acbea20d80ac480800000000000000
+      internalID: -8878274025241195987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b018cd502bb790800000000000000
+      internalID: -7513375966176954620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 284
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7a95a373a524d70800000000000000
+      internalID: 9025875796452550625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 284
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b957832a54217d4a0800000000000000
+      internalID: -6568761441212926565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 284
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e354d819a027bc50800000000000000
+      internalID: 6680844482865550312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_9
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 284
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea95dcd09c1d210800000000000000
+      internalID: 1356086023932194355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c7b3dd3758538f0800000000000000
+      internalID: -561395845858362214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 142
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b85f63fc68989d0800000000000000
+      internalID: -2771535871131415742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 142
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e45c62904c059b60800000000000000
+      internalID: 7752115805062190313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 142
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc597a8b4fb17850800000000000000
+      internalID: 6373085278872624324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 142
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a5583aa15a82f80800000000000000
+      internalID: -8131067593386272204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 560
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f50adec398a1b100800000000000000
+      internalID: 122064017699767797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d4e4e591a43704861b860bb6b74d442f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":560.0,"y":142.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fina_attack_0: -8768270698403830899
+      fina_attack_1: 3780390789843690889
+      fina_attack_10: -561395845858362214
+      fina_attack_11: -2771535871131415742
+      fina_attack_12: 7752115805062190313
+      fina_attack_13: 6373085278872624324
+      fina_attack_14: -8131067593386272204
+      fina_attack_15: 122064017699767797
+      fina_attack_2: 3409527512806493023
+      fina_attack_3: 5644794262961269708
+      fina_attack_4: -8878274025241195987
+      fina_attack_5: -7513375966176954620
+      fina_attack_6: 9025875796452550625
+      fina_attack_7: -6568761441212926565
+      fina_attack_8: 6680844482865550312
+      fina_attack_9: 1356086023932194355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: e5aff04b4fa9a4efe962a0203ac09e19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2680188358947177545
+    second: nichol_attack_0
+  - first:
+      213: 7558591528366768161
+    second: nichol_attack_1
+  - first:
+      213: 1815483429774439791
+    second: nichol_attack_2
+  - first:
+      213: -3953310956474340413
+    second: nichol_attack_3
+  - first:
+      213: -4722531065125824151
+    second: nichol_attack_4
+  - first:
+      213: 3716500100093903408
+    second: nichol_attack_5
+  - first:
+      213: -6371217755402708101
+    second: nichol_attack_6
+  - first:
+      213: -4548712732119702246
+    second: nichol_attack_7
+  - first:
+      213: 7665078873246934612
+    second: nichol_attack_8
+  - first:
+      213: 6072142323497491839
+    second: nichol_attack_9
+  - first:
+      213: -2130915078056955979
+    second: nichol_attack_10
+  - first:
+      213: 1920914466971238336
+    second: nichol_attack_11
+  - first:
+      213: -406617864540271008
+    second: nichol_attack_12
+  - first:
+      213: 3225067213461991670
+    second: nichol_attack_13
+  - first:
+      213: 2689744107448192696
+    second: nichol_attack_14
+  - first:
+      213: 3459954873177267403
+    second: nichol_attack_15
+  - first:
+      213: 560504340136162562
+    second: nichol_attack_16
+  - first:
+      213: -2243620785348335169
+    second: nichol_attack_17
+  - first:
+      213: 8834673283081377307
+    second: nichol_attack_18
+  - first:
+      213: 8150187147830159016
+    second: nichol_attack_19
+  - first:
+      213: 4309785423991303957
+    second: nichol_attack_20
+  - first:
+      213: 4258747317020958909
+    second: nichol_attack_21
+  - first:
+      213: -8118605343082394486
+    second: nichol_attack_22
+  - first:
+      213: -7175273424707647979
+    second: nichol_attack_23
+  - first:
+      213: -2811161337124911595
+    second: nichol_attack_24
+  - first:
+      213: -7404290034243277998
+    second: nichol_attack_25
+  - first:
+      213: -4057416603163762437
+    second: nichol_attack_26
+  - first:
+      213: -1131627316931714904
+    second: nichol_attack_27
+  - first:
+      213: 8086594097691614252
+    second: nichol_attack_28
+  - first:
+      213: -4969495753650431275
+    second: nichol_attack_29
+  - first:
+      213: -2985851355003737234
+    second: nichol_attack_30
+  - first:
+      213: 1436308422184462320
+    second: nichol_attack_31
+  - first:
+      213: -7880510573143284120
+    second: nichol_attack_32
+  - first:
+      213: -883399068704226943
+    second: nichol_attack_33
+  - first:
+      213: -5484434382478287880
+    second: nichol_attack_34
+  - first:
+      213: -8846839841682104471
+    second: nichol_attack_35
+  - first:
+      213: -5778259291841174981
+    second: nichol_attack_36
+  - first:
+      213: 6939457323667902332
+    second: nichol_attack_37
+  - first:
+      213: 7370274112496897837
+    second: nichol_attack_38
+  - first:
+      213: -8630982371136313518
+    second: nichol_attack_39
+  - first:
+      213: -4358659586366154016
+    second: nichol_attack_40
+  - first:
+      213: 6597410488006402855
+    second: nichol_attack_41
+  - first:
+      213: -5356945443700784374
+    second: nichol_attack_42
+  - first:
+      213: -1975751068280645016
+    second: nichol_attack_43
+  - first:
+      213: 2889868271601938727
+    second: nichol_attack_44
+  - first:
+      213: -5361981238534891150
+    second: nichol_attack_45
+  - first:
+      213: -6679114755752438647
+    second: nichol_attack_46
+  - first:
+      213: 1840505974794895120
+    second: nichol_attack_47
+  - first:
+      213: 177868426151330499
+    second: nichol_attack_48
+  - first:
+      213: -6242786401718517685
+    second: nichol_attack_49
+  - first:
+      213: -5027554227919820327
+    second: nichol_attack_50
+  - first:
+      213: -1519438538691516242
+    second: nichol_attack_51
+  - first:
+      213: -7068697049722663250
+    second: nichol_attack_52
+  - first:
+      213: -1422978179929557557
+    second: nichol_attack_53
+  - first:
+      213: 6448381419754131351
+    second: nichol_attack_54
+  - first:
+      213: -6985887366926885549
+    second: nichol_attack_55
+  - first:
+      213: -7134088554510457303
+    second: nichol_attack_56
+  - first:
+      213: 8863132950876382642
+    second: nichol_attack_57
+  - first:
+      213: 3542328406641872564
+    second: nichol_attack_58
+  - first:
+      213: 27136890027606791
+    second: nichol_attack_59
+  - first:
+      213: -1535566045930009568
+    second: nichol_attack_60
+  - first:
+      213: 156396002527658032
+    second: nichol_attack_61
+  - first:
+      213: -6110559491961637018
+    second: nichol_attack_62
+  - first:
+      213: -5872697416673519250
+    second: nichol_attack_63
+  - first:
+      213: 9015935114949618675
+    second: nichol_attack_64
+  - first:
+      213: 8204992616253695391
+    second: nichol_attack_65
+  - first:
+      213: -4358295133370110011
+    second: nichol_attack_66
+  - first:
+      213: 6055262618777941353
+    second: nichol_attack_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nichol_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9440f2abc11f13520800000000000000
+      internalID: 2680188358947177545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1020
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120049aa2f285e860800000000000000
+      internalID: 7558591528366768161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1020
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65305f7f84e13910800000000000000
+      internalID: 1815483429774439791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1020
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbefa071a40329c0800000000000000
+      internalID: -3953310956474340413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1020
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9699d6e6403367eb0800000000000000
+      internalID: -4722531065125824151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320dc17629a39330800000000000000
+      internalID: 3716500100093903408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_6
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 816
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b5f862533e497a0800000000000000
+      internalID: -6371217755402708101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 816
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1565b8ced9bfd0c0800000000000000
+      internalID: -4548712732119702246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 816
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4562c37bf94df5a60800000000000000
+      internalID: 7665078873246934612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 816
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ddea98545944450800000000000000
+      internalID: 6072142323497491839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf24edc6087d62e0800000000000000
+      internalID: -2130915078056955979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 612
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfbabfb78578aa10800000000000000
+      internalID: 1920914466971238336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 612
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ecfb0e4376b5af0800000000000000
+      internalID: -406617864540271008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 612
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f039232b8db1cc20800000000000000
+      internalID: 3225067213461991670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_14
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 612
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be462dc304e35520800000000000000
+      internalID: 2689744107448192696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccdc9220aa340030800000000000000
+      internalID: 3459954873177267403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 408
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20571e84abf47c700800000000000000
+      internalID: 560504340136162562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 408
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb921ae68ce0dd0e0800000000000000
+      internalID: -2243620785348335169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_18
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 408
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1613b8fa801b9a70800000000000000
+      internalID: 8834673283081377307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_19
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 408
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6ee5787084b1170800000000000000
+      internalID: 8150187147830159016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f6827420f6fcb30800000000000000
+      internalID: 4309785423991303957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 204
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0ae2bfe1c1a1b30800000000000000
+      internalID: 4258747317020958909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 204
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c4cf5647be45f80800000000000000
+      internalID: -8118605343082394486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_23
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 204
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516000226de4c6c90800000000000000
+      internalID: -7175273424707647979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_24
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 204
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5168b5678afbcf8d0800000000000000
+      internalID: -2811161337124911595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25be6f6817dae3990800000000000000
+      internalID: -7404290034243277998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0e6a6b81921b7c0800000000000000
+      internalID: -4057416603163762437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0282c63f6ab40f0800000000000000
+      internalID: -1131627316931714904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cddabbc7a593070800000000000000
+      internalID: 8086594097691614252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_attack_29
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da9ada01fdc80bb0800000000000000
+      internalID: -4969495753650431275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b11f415573d924260a7b80b159b4e502
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":6.0},"gridSpriteSize":{"x":340.0,"y":204.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      nichol_attack_0: 2680188358947177545
+      nichol_attack_1: 7558591528366768161
+      nichol_attack_10: -2130915078056955979
+      nichol_attack_11: 1920914466971238336
+      nichol_attack_12: -406617864540271008
+      nichol_attack_13: 3225067213461991670
+      nichol_attack_14: 2689744107448192696
+      nichol_attack_15: 3459954873177267403
+      nichol_attack_16: 560504340136162562
+      nichol_attack_17: -2243620785348335169
+      nichol_attack_18: 8834673283081377307
+      nichol_attack_19: 8150187147830159016
+      nichol_attack_2: 1815483429774439791
+      nichol_attack_20: 4309785423991303957
+      nichol_attack_21: 4258747317020958909
+      nichol_attack_22: -8118605343082394486
+      nichol_attack_23: -7175273424707647979
+      nichol_attack_24: -2811161337124911595
+      nichol_attack_25: -7404290034243277998
+      nichol_attack_26: -4057416603163762437
+      nichol_attack_27: -1131627316931714904
+      nichol_attack_28: 8086594097691614252
+      nichol_attack_29: -4969495753650431275
+      nichol_attack_3: -3953310956474340413
+      nichol_attack_4: -4722531065125824151
+      nichol_attack_5: 3716500100093903408
+      nichol_attack_6: -6371217755402708101
+      nichol_attack_7: -4548712732119702246
+      nichol_attack_8: 7665078873246934612
+      nichol_attack_9: 6072142323497491839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

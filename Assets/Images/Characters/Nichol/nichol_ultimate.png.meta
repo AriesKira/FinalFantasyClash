@@ -1,0 +1,1716 @@
+fileFormatVersion: 2
+guid: 37ef478a0436f4f8bb6a9cac365f3dca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8439936705054336996
+    second: nichol_ultimate_0
+  - first:
+      213: -7373149372175146793
+    second: nichol_ultimate_1
+  - first:
+      213: -6805985404484306586
+    second: nichol_ultimate_2
+  - first:
+      213: 5287431586390942062
+    second: nichol_ultimate_3
+  - first:
+      213: 7894274255560902018
+    second: nichol_ultimate_4
+  - first:
+      213: -7910850720932819067
+    second: nichol_ultimate_5
+  - first:
+      213: 3409118189219288874
+    second: nichol_ultimate_6
+  - first:
+      213: -7653069172445229223
+    second: nichol_ultimate_7
+  - first:
+      213: -8539191080559163803
+    second: nichol_ultimate_8
+  - first:
+      213: 8987876203073023526
+    second: nichol_ultimate_9
+  - first:
+      213: 8973090702834542855
+    second: nichol_ultimate_10
+  - first:
+      213: -2161383751233993335
+    second: nichol_ultimate_11
+  - first:
+      213: 501804022617040798
+    second: nichol_ultimate_12
+  - first:
+      213: 9065963390598409652
+    second: nichol_ultimate_13
+  - first:
+      213: 5475539953573167982
+    second: nichol_ultimate_14
+  - first:
+      213: -8764089990263923662
+    second: nichol_ultimate_15
+  - first:
+      213: 6984374314246835026
+    second: nichol_ultimate_16
+  - first:
+      213: -8178879622679107734
+    second: nichol_ultimate_17
+  - first:
+      213: -1122385503927634195
+    second: nichol_ultimate_18
+  - first:
+      213: 6400039694571997165
+    second: nichol_ultimate_19
+  - first:
+      213: 6922988522011817964
+    second: nichol_ultimate_20
+  - first:
+      213: -8692878341185506655
+    second: nichol_ultimate_21
+  - first:
+      213: 6422277466202347376
+    second: nichol_ultimate_22
+  - first:
+      213: -6442194602831237189
+    second: nichol_ultimate_23
+  - first:
+      213: -5408818166803026041
+    second: nichol_ultimate_24
+  - first:
+      213: -118259058797096044
+    second: nichol_ultimate_25
+  - first:
+      213: 1610285741848595484
+    second: nichol_ultimate_26
+  - first:
+      213: -7855154420969965125
+    second: nichol_ultimate_27
+  - first:
+      213: 777788953578263690
+    second: nichol_ultimate_28
+  - first:
+      213: -9126230188058969906
+    second: nichol_ultimate_29
+  - first:
+      213: 907895103797705907
+    second: nichol_ultimate_30
+  - first:
+      213: -5673419368663569150
+    second: nichol_ultimate_31
+  - first:
+      213: -3912793610174776158
+    second: nichol_ultimate_32
+  - first:
+      213: -2716118446409001742
+    second: nichol_ultimate_33
+  - first:
+      213: -5282411087765174566
+    second: nichol_ultimate_34
+  - first:
+      213: -3879249961618132228
+    second: nichol_ultimate_35
+  - first:
+      213: -3266385070203666625
+    second: nichol_ultimate_36
+  - first:
+      213: 1877032302849367449
+    second: nichol_ultimate_37
+  - first:
+      213: 1313031428662022240
+    second: nichol_ultimate_38
+  - first:
+      213: 3082137623425859934
+    second: nichol_ultimate_39
+  - first:
+      213: 7430469691115886210
+    second: nichol_ultimate_40
+  - first:
+      213: 8921732790140442169
+    second: nichol_ultimate_41
+  - first:
+      213: 2751746549789819881
+    second: nichol_ultimate_42
+  - first:
+      213: -3863738420635467204
+    second: nichol_ultimate_43
+  - first:
+      213: -5682452308190836696
+    second: nichol_ultimate_44
+  - first:
+      213: 6026461114141803873
+    second: nichol_ultimate_45
+  - first:
+      213: 3047693007907589068
+    second: nichol_ultimate_46
+  - first:
+      213: 795577175920326456
+    second: nichol_ultimate_47
+  - first:
+      213: 965832735503720167
+    second: nichol_ultimate_48
+  - first:
+      213: 1831445685666727067
+    second: nichol_ultimate_49
+  - first:
+      213: 5372357960464420683
+    second: nichol_ultimate_50
+  - first:
+      213: 7511656442862486205
+    second: nichol_ultimate_51
+  - first:
+      213: -4146361829298615713
+    second: nichol_ultimate_52
+  - first:
+      213: 2779790627702308794
+    second: nichol_ultimate_53
+  - first:
+      213: 1924115238119811164
+    second: nichol_ultimate_54
+  - first:
+      213: -7913651285671047505
+    second: nichol_ultimate_55
+  - first:
+      213: 1892251367936807748
+    second: nichol_ultimate_56
+  - first:
+      213: -115107751267516717
+    second: nichol_ultimate_57
+  - first:
+      213: -5850143409700969120
+    second: nichol_ultimate_58
+  - first:
+      213: -5963183779025648344
+    second: nichol_ultimate_59
+  - first:
+      213: 1683064762662442222
+    second: nichol_ultimate_60
+  - first:
+      213: 5975147655322366381
+    second: nichol_ultimate_61
+  - first:
+      213: -6685812461394917981
+    second: nichol_ultimate_62
+  - first:
+      213: 7660910001896892963
+    second: nichol_ultimate_63
+  - first:
+      213: 4625989364122773940
+    second: nichol_ultimate_64
+  - first:
+      213: 3549966797471996906
+    second: nichol_ultimate_65
+  - first:
+      213: 8516730216422005200
+    second: nichol_ultimate_66
+  - first:
+      213: 6931008167406375604
+    second: nichol_ultimate_67
+  - first:
+      213: 1491812403689108221
+    second: nichol_ultimate_68
+  - first:
+      213: 8344774689812186964
+    second: nichol_ultimate_69
+  - first:
+      213: 2724074096798352299
+    second: nichol_ultimate_70
+  - first:
+      213: -6684501035001351173
+    second: nichol_ultimate_71
+  - first:
+      213: -3739918420538449999
+    second: nichol_ultimate_72
+  - first:
+      213: -3392260687750697910
+    second: nichol_ultimate_73
+  - first:
+      213: -1382949733525734281
+    second: nichol_ultimate_74
+  - first:
+      213: -5321626454173227795
+    second: nichol_ultimate_75
+  - first:
+      213: 1717204507093306123
+    second: nichol_ultimate_76
+  - first:
+      213: 1532168785885195617
+    second: nichol_ultimate_77
+  - first:
+      213: 1972072125796187036
+    second: nichol_ultimate_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nichol_ultimate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1595
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e76b8f67bda02570800000000000000
+      internalID: 8439936705054336996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1595
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02b9be5bf4da990800000000000000
+      internalID: -7373149372175146793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1595
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669383395584c81a0800000000000000
+      internalID: -6805985404484306586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_3
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1595
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e612309830bb06940800000000000000
+      internalID: 5287431586390942062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1595
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285083a1c981e8d60800000000000000
+      internalID: 7894274255560902018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f08abce23073290800000000000000
+      internalID: -7910850720932819067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1450
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a271db94eee9f4f20800000000000000
+      internalID: 3409118189219288874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1450
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fc8e6a226dac590800000000000000
+      internalID: -7653069172445229223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_8
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1450
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566461e64f2be7980800000000000000
+      internalID: -8539191080559163803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_9
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1450
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eaa5179c95bbc70800000000000000
+      internalID: 8987876203073023526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1305
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70920d7e372d68c70800000000000000
+      internalID: 8973090702834542855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1305
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98585640ee83102e0800000000000000
+      internalID: -2161383751233993335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1305
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9763f29914c6f600800000000000000
+      internalID: 501804022617040798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1305
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd60539ba5c0dd70800000000000000
+      internalID: 9065963390598409652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_14
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1305
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63003eb3960dfb40800000000000000
+      internalID: 5475539953573167982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c13c68692bf5680800000000000000
+      internalID: -8764089990263923662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1160
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b8b0b1f6b7de060800000000000000
+      internalID: 6984374314246835026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1160
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67e7851158ce7e80800000000000000
+      internalID: -8178879622679107734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_18
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1160
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de67851b45c7c60f0800000000000000
+      internalID: -1122385503927634195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_19
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1160
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de70d5f713281d850800000000000000
+      internalID: 6400039694571997165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1015
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7fe969165631060800000000000000
+      internalID: 6922988522011817964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1015
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a273fd9431bc5780800000000000000
+      internalID: -8692878341185506655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1015
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0779cfd2453802950800000000000000
+      internalID: 6422277466202347376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_23
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1015
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf2e44142ab896a0800000000000000
+      internalID: -6442194602831237189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_24
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1015
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fa601d88400f4b0800000000000000
+      internalID: -5408818166803026041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4935de8330cdb5ef0800000000000000
+      internalID: -118259058797096044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 870
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c03cdb952e85610800000000000000
+      internalID: 1610285741848595484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 870
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9fe3a2ca2ecf290800000000000000
+      internalID: -7855154420969965125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_28
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 870
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a845140bee24bca00800000000000000
+      internalID: 777788953578263690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_29
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 870
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87c4e2ffd195180800000000000000
+      internalID: -9126230188058969906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcbd2369cd799c00800000000000000
+      internalID: 907895103797705907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 725
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dacfca427f341b0800000000000000
+      internalID: -5673419368663569150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_32
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 725
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac3d1241f6f2b9c0800000000000000
+      internalID: -3912793610174776158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_33
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 725
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4d7e1e9a86e4ad0800000000000000
+      internalID: -2716118446409001742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_34
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 725
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad60c246a1b11b6b0800000000000000
+      internalID: -5282411087765174566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2bdca86b22a2ac0800000000000000
+      internalID: -3879249961618132228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 580
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ffedea5187ba2d0800000000000000
+      internalID: -3266385070203666625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 580
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d154b3fee8c0a10800000000000000
+      internalID: 1877032302849367449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_38
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 580
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060d25ca023d83210800000000000000
+      internalID: 1313031428662022240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 580
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e514a21b6d3f5ca20800000000000000
+      internalID: 3082137623425859934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286d445d0d45e1760800000000000000
+      internalID: 7430469691115886210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_41
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 435
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936964904bc50db70800000000000000
+      internalID: 8921732790140442169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_42
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 435
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3012c58ea203620800000000000000
+      internalID: 2751746549789819881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_43
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 435
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c328efc906e316ac0800000000000000
+      internalID: -3863738420635467204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_44
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 435
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828cf2d8bbfd321b0800000000000000
+      internalID: -5682452308190836696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1658029247a42a350800000000000000
+      internalID: 6026461114141803873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_46
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb06c0b4a49b4a20800000000000000
+      internalID: 3047693007907589068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_47
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 290
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837b322f9357a0b00800000000000000
+      internalID: 795577175920326456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_48
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 290
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee942871c3576d00800000000000000
+      internalID: 965832735503720167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_49
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 290
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94469fc52a9a6910800000000000000
+      internalID: 1831445685666727067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f49bfd9137e8a40800000000000000
+      internalID: 5372357960464420683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_51
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 145
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2c79f7cb3ce3860800000000000000
+      internalID: 7511656442862486205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_52
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 145
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5aca6672e92576c0800000000000000
+      internalID: -4146361829298615713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_53
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 145
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abff72219dcc39620800000000000000
+      internalID: 2779790627702308794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_54
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 145
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c582c0b5d94d3ba10800000000000000
+      internalID: 1924115238119811164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae834185101d2290800000000000000
+      internalID: -7913651285671047505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_56
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443de93f790a24a10800000000000000
+      internalID: 1892251367936807748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nichol_ultimate_57
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 280
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de3ece2c1e076ef0800000000000000
+      internalID: -115107751267516717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 89ea35cbd9dd342878c936605aba9f3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":12.0},"gridSpriteSize":{"x":280.0,"y":145.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      nichol_ultimate_0: 8439936705054336996
+      nichol_ultimate_1: -7373149372175146793
+      nichol_ultimate_10: 8973090702834542855
+      nichol_ultimate_11: -2161383751233993335
+      nichol_ultimate_12: 501804022617040798
+      nichol_ultimate_13: 9065963390598409652
+      nichol_ultimate_14: 5475539953573167982
+      nichol_ultimate_15: -8764089990263923662
+      nichol_ultimate_16: 6984374314246835026
+      nichol_ultimate_17: -8178879622679107734
+      nichol_ultimate_18: -1122385503927634195
+      nichol_ultimate_19: 6400039694571997165
+      nichol_ultimate_2: -6805985404484306586
+      nichol_ultimate_20: 6922988522011817964
+      nichol_ultimate_21: -8692878341185506655
+      nichol_ultimate_22: 6422277466202347376
+      nichol_ultimate_23: -6442194602831237189
+      nichol_ultimate_24: -5408818166803026041
+      nichol_ultimate_25: -118259058797096044
+      nichol_ultimate_26: 1610285741848595484
+      nichol_ultimate_27: -7855154420969965125
+      nichol_ultimate_28: 777788953578263690
+      nichol_ultimate_29: -9126230188058969906
+      nichol_ultimate_3: 5287431586390942062
+      nichol_ultimate_30: 907895103797705907
+      nichol_ultimate_31: -5673419368663569150
+      nichol_ultimate_32: -3912793610174776158
+      nichol_ultimate_33: -2716118446409001742
+      nichol_ultimate_34: -5282411087765174566
+      nichol_ultimate_35: -3879249961618132228
+      nichol_ultimate_36: -3266385070203666625
+      nichol_ultimate_37: 1877032302849367449
+      nichol_ultimate_38: 1313031428662022240
+      nichol_ultimate_39: 3082137623425859934
+      nichol_ultimate_4: 7894274255560902018
+      nichol_ultimate_40: 7430469691115886210
+      nichol_ultimate_41: 8921732790140442169
+      nichol_ultimate_42: 2751746549789819881
+      nichol_ultimate_43: -3863738420635467204
+      nichol_ultimate_44: -5682452308190836696
+      nichol_ultimate_45: 6026461114141803873
+      nichol_ultimate_46: 3047693007907589068
+      nichol_ultimate_47: 795577175920326456
+      nichol_ultimate_48: 965832735503720167
+      nichol_ultimate_49: 1831445685666727067
+      nichol_ultimate_5: -7910850720932819067
+      nichol_ultimate_50: 5372357960464420683
+      nichol_ultimate_51: 7511656442862486205
+      nichol_ultimate_52: -4146361829298615713
+      nichol_ultimate_53: 2779790627702308794
+      nichol_ultimate_54: 1924115238119811164
+      nichol_ultimate_55: -7913651285671047505
+      nichol_ultimate_56: 1892251367936807748
+      nichol_ultimate_57: -115107751267516717
+      nichol_ultimate_6: 3409118189219288874
+      nichol_ultimate_7: -7653069172445229223
+      nichol_ultimate_8: -8539191080559163803
+      nichol_ultimate_9: 8987876203073023526
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

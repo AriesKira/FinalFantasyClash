@@ -1,0 +1,1067 @@
+fileFormatVersion: 2
+guid: 750d0f98314c74df08f84f858d629c4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 747790843170798203
+    second: sakura_ultimate_0
+  - first:
+      213: 5341563321032070309
+    second: sakura_ultimate_1
+  - first:
+      213: -2160605355441267713
+    second: sakura_ultimate_2
+  - first:
+      213: 5868161634962890396
+    second: sakura_ultimate_3
+  - first:
+      213: 949348605551277766
+    second: sakura_ultimate_4
+  - first:
+      213: 4134578518297380806
+    second: sakura_ultimate_5
+  - first:
+      213: -8341706960402998557
+    second: sakura_ultimate_6
+  - first:
+      213: 574294447506796063
+    second: sakura_ultimate_7
+  - first:
+      213: 3174803490831299470
+    second: sakura_ultimate_8
+  - first:
+      213: 8685754493368868639
+    second: sakura_ultimate_9
+  - first:
+      213: 2256253449593361909
+    second: sakura_ultimate_10
+  - first:
+      213: 366563021396348897
+    second: sakura_ultimate_11
+  - first:
+      213: 3362591896185938932
+    second: sakura_ultimate_12
+  - first:
+      213: -8676175463592140378
+    second: sakura_ultimate_13
+  - first:
+      213: 1740295593111941649
+    second: sakura_ultimate_14
+  - first:
+      213: 5506308194856666460
+    second: sakura_ultimate_15
+  - first:
+      213: -4888022378563946849
+    second: sakura_ultimate_16
+  - first:
+      213: -4533310765948421747
+    second: sakura_ultimate_17
+  - first:
+      213: -4146517057547597464
+    second: sakura_ultimate_18
+  - first:
+      213: 1028808918373416414
+    second: sakura_ultimate_19
+  - first:
+      213: -7683668284355135671
+    second: sakura_ultimate_20
+  - first:
+      213: -5746596851894539406
+    second: sakura_ultimate_21
+  - first:
+      213: -1911957020210206325
+    second: sakura_ultimate_22
+  - first:
+      213: 61524684712227508
+    second: sakura_ultimate_23
+  - first:
+      213: 1235277356566306591
+    second: sakura_ultimate_24
+  - first:
+      213: 5147737677644894021
+    second: sakura_ultimate_25
+  - first:
+      213: -7075225002395317588
+    second: sakura_ultimate_26
+  - first:
+      213: -7012031239280543357
+    second: sakura_ultimate_27
+  - first:
+      213: 854363041447205748
+    second: sakura_ultimate_28
+  - first:
+      213: -510300825846688078
+    second: sakura_ultimate_29
+  - first:
+      213: -6054676773874247494
+    second: sakura_ultimate_30
+  - first:
+      213: 878299951290012671
+    second: sakura_ultimate_31
+  - first:
+      213: -4054948734740970134
+    second: sakura_ultimate_32
+  - first:
+      213: 3870846637853858402
+    second: sakura_ultimate_33
+  - first:
+      213: 7247333184749405873
+    second: sakura_ultimate_34
+  - first:
+      213: 800578754300489567
+    second: sakura_ultimate_35
+  - first:
+      213: 8605473989511254635
+    second: sakura_ultimate_36
+  - first:
+      213: 3414837308921050204
+    second: sakura_ultimate_37
+  - first:
+      213: -2666122100348198346
+    second: sakura_ultimate_38
+  - first:
+      213: 4569490793060562785
+    second: sakura_ultimate_39
+  - first:
+      213: 6548023141963628391
+    second: sakura_ultimate_40
+  - first:
+      213: 1727011218068236859
+    second: sakura_ultimate_41
+  - first:
+      213: -7020387595778195388
+    second: sakura_ultimate_42
+  - first:
+      213: 5498057979324626659
+    second: sakura_ultimate_43
+  - first:
+      213: 2730005011730578051
+    second: sakura_ultimate_44
+  - first:
+      213: -5570288622946402454
+    second: sakura_ultimate_45
+  - first:
+      213: -2461364934425984217
+    second: sakura_ultimate_46
+  - first:
+      213: -340920251746870752
+    second: sakura_ultimate_47
+  - first:
+      213: 4485413482785288701
+    second: sakura_ultimate_48
+  - first:
+      213: -2603775248113091545
+    second: sakura_ultimate_49
+  - first:
+      213: -5322396507842855563
+    second: sakura_ultimate_50
+  - first:
+      213: 8591676317666357799
+    second: sakura_ultimate_51
+  - first:
+      213: -7269232138639049136
+    second: sakura_ultimate_52
+  - first:
+      213: -7110175559304661818
+    second: sakura_ultimate_53
+  - first:
+      213: -6438566626424733841
+    second: sakura_ultimate_54
+  - first:
+      213: -2166407138244531542
+    second: sakura_ultimate_55
+  - first:
+      213: 8764672256151639756
+    second: sakura_ultimate_56
+  - first:
+      213: 749091510792444902
+    second: sakura_ultimate_57
+  - first:
+      213: -2345307187044441743
+    second: sakura_ultimate_58
+  - first:
+      213: 6991481062043649013
+    second: sakura_ultimate_59
+  - first:
+      213: -5515346865542425459
+    second: sakura_ultimate_60
+  - first:
+      213: 4170826571726190036
+    second: sakura_ultimate_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sakura_ultimate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a3c755fcfa06a00800000000000000
+      internalID: 747790843170798203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1416
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a45f572a8b012a40800000000000000
+      internalID: 5341563321032070309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1416
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbdd1960ecf302e0800000000000000
+      internalID: -2160605355441267713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1416
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed9888ae5ef6150800000000000000
+      internalID: 5868161634962890396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1416
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c675e1e683cc2d00800000000000000
+      internalID: 949348605551277766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c78317a149f06930800000000000000
+      internalID: 4134578518297380806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1180
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea96cc37bd4c3c80800000000000000
+      internalID: -8341706960402998557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_7
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1180
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e2f1cd1cd48f700800000000000000
+      internalID: 574294447506796063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1180
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e837bae34fa2f0c20800000000000000
+      internalID: 3174803490831299470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1180
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f118f41bff98870800000000000000
+      internalID: 8685754493368868639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5134aee82df4f10800000000000000
+      internalID: 2256253449593361909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 944
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef8f16302b461500800000000000000
+      internalID: 366563021396348897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 944
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f325c883835aae20800000000000000
+      internalID: 3362591896185938932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_13
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 944
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a161ab5268089780800000000000000
+      internalID: -8676175463592140378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_14
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 944
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1127d971f95c62810800000000000000
+      internalID: 1740295593111941649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55014a21265a6c40800000000000000
+      internalID: 5506308194856666460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_16
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 708
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9639876b814a2cb0800000000000000
+      internalID: -4888022378563946849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 708
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89b03b70e17611c0800000000000000
+      internalID: -4533310765948421747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_18
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 708
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86907c194bc9476c0800000000000000
+      internalID: -4146517057547597464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_19
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 708
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddb669a240174e00800000000000000
+      internalID: 1028808918373416414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947b31bb7602e5590800000000000000
+      internalID: -7683668284355135671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 472
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ba2772c9cff30b0800000000000000
+      internalID: -5746596851894539406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 472
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b896e88583d5775e0800000000000000
+      internalID: -1911957020210206325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_23
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 472
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2b031ff549ad000800000000000000
+      internalID: 61524684712227508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 472
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fd7350636942110800000000000000
+      internalID: 1235277356566306591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f0be8d420707740800000000000000
+      internalID: 5147737677644894021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 236
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac342b850cfcd90800000000000000
+      internalID: -7075225002395317588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 236
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389bdbc3db240be90800000000000000
+      internalID: -7012031239280543357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 236
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bdeaad8ae4bdb00800000000000000
+      internalID: 854363041447205748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 236
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6d1d24a1c0be8f0800000000000000
+      internalID: -510300825846688078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8da6f9d8779fba0800000000000000
+      internalID: -6054676773874247494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sakura_ultimate_31
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff352eaf629503c00800000000000000
+      internalID: 878299951290012671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 941d44bd7347e4ef8aa360e6f948c152
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":7.0},"gridSpriteSize":{"x":300.0,"y":236.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      sakura_ultimate_0: 747790843170798203
+      sakura_ultimate_1: 5341563321032070309
+      sakura_ultimate_10: 2256253449593361909
+      sakura_ultimate_11: 366563021396348897
+      sakura_ultimate_12: 3362591896185938932
+      sakura_ultimate_13: -8676175463592140378
+      sakura_ultimate_14: 1740295593111941649
+      sakura_ultimate_15: 5506308194856666460
+      sakura_ultimate_16: -4888022378563946849
+      sakura_ultimate_17: -4533310765948421747
+      sakura_ultimate_18: -4146517057547597464
+      sakura_ultimate_19: 1028808918373416414
+      sakura_ultimate_2: -2160605355441267713
+      sakura_ultimate_20: -7683668284355135671
+      sakura_ultimate_21: -5746596851894539406
+      sakura_ultimate_22: -1911957020210206325
+      sakura_ultimate_23: 61524684712227508
+      sakura_ultimate_24: 1235277356566306591
+      sakura_ultimate_25: 5147737677644894021
+      sakura_ultimate_26: -7075225002395317588
+      sakura_ultimate_27: -7012031239280543357
+      sakura_ultimate_28: 854363041447205748
+      sakura_ultimate_29: -510300825846688078
+      sakura_ultimate_3: 5868161634962890396
+      sakura_ultimate_30: -6054676773874247494
+      sakura_ultimate_31: 878299951290012671
+      sakura_ultimate_4: 949348605551277766
+      sakura_ultimate_5: 4134578518297380806
+      sakura_ultimate_6: -8341706960402998557
+      sakura_ultimate_7: 574294447506796063
+      sakura_ultimate_8: 3174803490831299470
+      sakura_ultimate_9: 8685754493368868639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

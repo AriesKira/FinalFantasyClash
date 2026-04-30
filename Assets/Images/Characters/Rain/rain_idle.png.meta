@@ -1,0 +1,400 @@
+fileFormatVersion: 2
+guid: 865a2c16574284bfcbe128a9c5e0a7cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5852530791533163914
+    second: rain_idle_0
+  - first:
+      213: 1376735659328114782
+    second: rain_idle_1
+  - first:
+      213: -3467517798790572392
+    second: rain_idle_2
+  - first:
+      213: -8265169747256399651
+    second: rain_idle_3
+  - first:
+      213: -4617366716901625675
+    second: rain_idle_4
+  - first:
+      213: -3248555838763685107
+    second: rain_idle_5
+  - first:
+      213: -5527312666954011107
+    second: rain_idle_6
+  - first:
+      213: 6420344132302121663
+    second: rain_idle_7
+  - first:
+      213: 8798813174239073202
+    second: rain_idle_8
+  - first:
+      213: 8493113840943929378
+    second: rain_idle_9
+  - first:
+      213: 3277044145994391135
+    second: rain_idle_10
+  - first:
+      213: 147482676392028331
+    second: rain_idle_11
+  - first:
+      213: -2515052367237036850
+    second: rain_idle_12
+  - first:
+      213: -2975864979659715708
+    second: rain_idle_13
+  - first:
+      213: 8667683030337485396
+    second: rain_idle_14
+  - first:
+      213: -2816065471742641018
+    second: rain_idle_15
+  - first:
+      213: 4081377605169010598
+    second: rain_idle_16
+  - first:
+      213: 7551155555961418576
+    second: rain_idle_17
+  - first:
+      213: -2513447351964136656
+    second: rain_idle_18
+  - first:
+      213: 1362857949398473155
+    second: rain_idle_19
+  - first:
+      213: -8810914509649102257
+    second: rain_idle_20
+  - first:
+      213: -5182266100737463764
+    second: rain_idle_21
+  - first:
+      213: -5658741512152031376
+    second: rain_idle_22
+  - first:
+      213: -6580197794935255936
+    second: rain_idle_23
+  - first:
+      213: -8162408773854861946
+    second: rain_idle_24
+  - first:
+      213: -1088228887075941052
+    second: rain_idle_25
+  - first:
+      213: -7246265449922025998
+    second: rain_idle_26
+  - first:
+      213: 117973661863433145
+    second: rain_idle_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rain_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85be523fbd583150800000000000000
+      internalID: 5852530791533163914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_idle_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 118
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e509dd3b9c52b1310800000000000000
+      internalID: 1376735659328114782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_idle_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 118
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8965eb60fe6e0efc0800000000000000
+      internalID: -3467517798790572392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_idle_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 118
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd82a76d7e73c4d80800000000000000
+      internalID: -8265169747256399651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_idle_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 118
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0fd515f61dbefb0800000000000000
+      internalID: -4617366716901625675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b287d1dafcae2d0800000000000000
+      internalID: -3248555838763685107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_idle_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e60b31a6a0b43b0800000000000000
+      internalID: -5527312666954011107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_idle_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaa1adc8f4a91950800000000000000
+      internalID: 6420344132302121663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 228698614898c48d6868c147bafea86f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":2.0},"gridSpriteSize":{"x":160.0,"y":118.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rain_idle_0: 5852530791533163914
+      rain_idle_1: 1376735659328114782
+      rain_idle_2: -3467517798790572392
+      rain_idle_3: -8265169747256399651
+      rain_idle_4: -4617366716901625675
+      rain_idle_5: -3248555838763685107
+      rain_idle_6: -5527312666954011107
+      rain_idle_7: 6420344132302121663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

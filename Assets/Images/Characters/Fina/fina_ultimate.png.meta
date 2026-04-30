@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 4bf10484642b241ecb9609ef86ccdda3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2472171983291569515
+    second: fina_ultimate_0
+  - first:
+      213: 8966417373745856968
+    second: fina_ultimate_1
+  - first:
+      213: 373360404883258638
+    second: fina_ultimate_2
+  - first:
+      213: 7558005693048354510
+    second: fina_ultimate_3
+  - first:
+      213: 55890211312642652
+    second: fina_ultimate_4
+  - first:
+      213: -4892074222545953519
+    second: fina_ultimate_5
+  - first:
+      213: 3133243149087281289
+    second: fina_ultimate_6
+  - first:
+      213: -1100753730167845570
+    second: fina_ultimate_7
+  - first:
+      213: -3740695970225490553
+    second: fina_ultimate_8
+  - first:
+      213: 5486722446555548521
+    second: fina_ultimate_9
+  - first:
+      213: -9090598791872836953
+    second: fina_ultimate_10
+  - first:
+      213: 1930110389357708264
+    second: fina_ultimate_11
+  - first:
+      213: 6363180564151890094
+    second: fina_ultimate_12
+  - first:
+      213: -5070841612952579711
+    second: fina_ultimate_13
+  - first:
+      213: 861570596191504775
+    second: fina_ultimate_14
+  - first:
+      213: 414508169749003124
+    second: fina_ultimate_15
+  - first:
+      213: -1309705223839831048
+    second: fina_ultimate_16
+  - first:
+      213: -6378181967406979917
+    second: fina_ultimate_17
+  - first:
+      213: -2734069568591863063
+    second: fina_ultimate_18
+  - first:
+      213: -8258480168410966217
+    second: fina_ultimate_19
+  - first:
+      213: -5275100746474878374
+    second: fina_ultimate_20
+  - first:
+      213: -7830417168396534857
+    second: fina_ultimate_21
+  - first:
+      213: 7112677083802076886
+    second: fina_ultimate_22
+  - first:
+      213: 3787915857068119308
+    second: fina_ultimate_23
+  - first:
+      213: 7014128370924356270
+    second: fina_ultimate_24
+  - first:
+      213: 9190204584230991350
+    second: fina_ultimate_25
+  - first:
+      213: -2716806786817077209
+    second: fina_ultimate_26
+  - first:
+      213: 7082821240856184865
+    second: fina_ultimate_27
+  - first:
+      213: -5135422862980724374
+    second: fina_ultimate_28
+  - first:
+      213: 2307719031470525897
+    second: fina_ultimate_29
+  - first:
+      213: -5556167962137948462
+    second: fina_ultimate_30
+  - first:
+      213: -1489641032511031441
+    second: fina_ultimate_31
+  - first:
+      213: -3828903273187925747
+    second: fina_ultimate_32
+  - first:
+      213: -5004943378241034487
+    second: fina_ultimate_33
+  - first:
+      213: 2479807511829578078
+    second: fina_ultimate_34
+  - first:
+      213: -8770501181997265701
+    second: fina_ultimate_35
+  - first:
+      213: -7504107242261338030
+    second: fina_ultimate_36
+  - first:
+      213: 5318702843726214716
+    second: fina_ultimate_37
+  - first:
+      213: -5887409178914656981
+    second: fina_ultimate_38
+  - first:
+      213: -3037309574806813133
+    second: fina_ultimate_39
+  - first:
+      213: 8954812606569297397
+    second: fina_ultimate_40
+  - first:
+      213: -8053913285454931228
+    second: fina_ultimate_41
+  - first:
+      213: -751627527311575842
+    second: fina_ultimate_42
+  - first:
+      213: -1977739105458356866
+    second: fina_ultimate_43
+  - first:
+      213: 310716369485627606
+    second: fina_ultimate_44
+  - first:
+      213: -443652781031081513
+    second: fina_ultimate_45
+  - first:
+      213: 6673252745173455829
+    second: fina_ultimate_46
+  - first:
+      213: 8290184795264547890
+    second: fina_ultimate_47
+  - first:
+      213: -1177003979350497911
+    second: fina_ultimate_48
+  - first:
+      213: -1083029257834830471
+    second: fina_ultimate_49
+  - first:
+      213: -3552151851355571613
+    second: fina_ultimate_50
+  - first:
+      213: 7139349698034704928
+    second: fina_ultimate_51
+  - first:
+      213: -1479657919605745276
+    second: fina_ultimate_52
+  - first:
+      213: 9018679327148332800
+    second: fina_ultimate_53
+  - first:
+      213: -1887582236074732268
+    second: fina_ultimate_54
+  - first:
+      213: -3371373593688800406
+    second: fina_ultimate_55
+  - first:
+      213: -2723931358878091350
+    second: fina_ultimate_56
+  - first:
+      213: -2666255342971755351
+    second: fina_ultimate_57
+  - first:
+      213: 5665662140089259288
+    second: fina_ultimate_58
+  - first:
+      213: 6719790404543530903
+    second: fina_ultimate_59
+  - first:
+      213: 7101118760160455250
+    second: fina_ultimate_60
+  - first:
+      213: 6494065028439710925
+    second: fina_ultimate_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fina_ultimate_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aab38eda411bdd0800000000000000
+      internalID: -2472171983291569515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 438
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c14306681d1f6c70800000000000000
+      internalID: 8966417373745856968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_2
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 438
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d33426f417e2500800000000000000
+      internalID: 373360404883258638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_3
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 438
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6f680422e63e860800000000000000
+      internalID: 7558005693048354510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_4
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 438
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a26bfd9df86c000800000000000000
+      internalID: 55890211312642652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d9d46f96cdb1cb0800000000000000
+      internalID: -4892074222545953519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 292
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98016402b048b7b20800000000000000
+      internalID: 3133243149087281289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 292
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dc820805659b0f0800000000000000
+      internalID: -1100753730167845570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_8
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 292
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78579f985d0661cc0800000000000000
+      internalID: -3740695970225490553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_9
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 292
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b0b18cef0c42c40800000000000000
+      internalID: 5486722446555548521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa03d61094b7d180800000000000000
+      internalID: -9090598791872836953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 146
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e305f64c2129ca10800000000000000
+      internalID: 1930110389357708264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 146
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea071ff620f8e4850800000000000000
+      internalID: 6363180564151890094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_13
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 146
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18151b36b60c0a9b0800000000000000
+      internalID: -5070841612952579711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_14
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 146
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7898ae674e9e4fb00800000000000000
+      internalID: 861570596191504775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bf266fbf0a0c500800000000000000
+      internalID: 414508169749003124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbad8cb90ef2dde0800000000000000
+      internalID: -1309705223839831048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_17
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4a7ef2b452c77a0800000000000000
+      internalID: -6378181967406979917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_18
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e260ec8632ae0ad0800000000000000
+      internalID: -2734069568591863063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_ultimate_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 720
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7379149ca0cf36d80800000000000000
+      internalID: -8258480168410966217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 05aed213a64414ee89a706995325f68c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":720.0,"y":146.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fina_ultimate_0: -2472171983291569515
+      fina_ultimate_1: 8966417373745856968
+      fina_ultimate_10: -9090598791872836953
+      fina_ultimate_11: 1930110389357708264
+      fina_ultimate_12: 6363180564151890094
+      fina_ultimate_13: -5070841612952579711
+      fina_ultimate_14: 861570596191504775
+      fina_ultimate_15: 414508169749003124
+      fina_ultimate_16: -1309705223839831048
+      fina_ultimate_17: -6378181967406979917
+      fina_ultimate_18: -2734069568591863063
+      fina_ultimate_19: -8258480168410966217
+      fina_ultimate_2: 373360404883258638
+      fina_ultimate_3: 7558005693048354510
+      fina_ultimate_4: 55890211312642652
+      fina_ultimate_5: -4892074222545953519
+      fina_ultimate_6: 3133243149087281289
+      fina_ultimate_7: -1100753730167845570
+      fina_ultimate_8: -3740695970225490553
+      fina_ultimate_9: 5486722446555548521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

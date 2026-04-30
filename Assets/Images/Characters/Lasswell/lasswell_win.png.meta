@@ -1,0 +1,576 @@
+fileFormatVersion: 2
+guid: dff27007dd51c42db91b3a0b46a9ac61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4417056813943513874
+    second: lasswell_win_0
+  - first:
+      213: 7106124148952813338
+    second: lasswell_win_1
+  - first:
+      213: 152679307777579291
+    second: lasswell_win_2
+  - first:
+      213: 2849374846826489071
+    second: lasswell_win_3
+  - first:
+      213: 876815402303997032
+    second: lasswell_win_4
+  - first:
+      213: -8633113260635259990
+    second: lasswell_win_5
+  - first:
+      213: 7550821887262073758
+    second: lasswell_win_6
+  - first:
+      213: 7876115521614482059
+    second: lasswell_win_7
+  - first:
+      213: 5764161273233893760
+    second: lasswell_win_8
+  - first:
+      213: 7627579053910022557
+    second: lasswell_win_9
+  - first:
+      213: -1479984178443924044
+    second: lasswell_win_10
+  - first:
+      213: -2089255346795346790
+    second: lasswell_win_11
+  - first:
+      213: 9020012375399451792
+    second: lasswell_win_12
+  - first:
+      213: -7180350366396351402
+    second: lasswell_win_13
+  - first:
+      213: -8683439086325840450
+    second: lasswell_win_14
+  - first:
+      213: -8663895845925488886
+    second: lasswell_win_15
+  - first:
+      213: -7883526606653476351
+    second: lasswell_win_16
+  - first:
+      213: 3690512713430065629
+    second: lasswell_win_17
+  - first:
+      213: 1057283219539132585
+    second: lasswell_win_18
+  - first:
+      213: 4737584143353266736
+    second: lasswell_win_19
+  - first:
+      213: 1897978220830621760
+    second: lasswell_win_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lasswell_win_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 414
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21362db05c98c4d30800000000000000
+      internalID: 4417056813943513874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 414
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f482c73460e9260800000000000000
+      internalID: 7106124148952813338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 414
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1992a0850d6e1200800000000000000
+      internalID: 152679307777579291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 414
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4a60993530b8720800000000000000
+      internalID: 2849374846826489071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 414
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864cbeb76f21b2c00800000000000000
+      internalID: 876815402303997032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabfe1aca35013880800000000000000
+      internalID: -8633113260635259990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 276
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9320802088e9c860800000000000000
+      internalID: 7550821887262073758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 276
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a85c366559d4d60800000000000000
+      internalID: 7876115521614482059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_8
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 276
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0896b2f532a6eff40800000000000000
+      internalID: 5764161273233893760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 276
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995484acba9ad960800000000000000
+      internalID: 7627579053910022557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bdc6a22b3a067be0800000000000000
+      internalID: -1479984178443924044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 138
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a948d29d4597103e0800000000000000
+      internalID: -2089255346795346790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 138
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ccf4127758d2d70800000000000000
+      internalID: 9020012375399451792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 138
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c791882654a5c90800000000000000
+      internalID: -7180350366396351402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 138
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb54ec6682a3e7780800000000000000
+      internalID: -8683439086325840450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lasswell_win_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07f0a4a1a8a3c780800000000000000
+      internalID: -8663895845925488886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b3582019c9bb47039af50bb808fe8f3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":180.0,"y":138.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      lasswell_win_0: 4417056813943513874
+      lasswell_win_1: 7106124148952813338
+      lasswell_win_10: -1479984178443924044
+      lasswell_win_11: -2089255346795346790
+      lasswell_win_12: 9020012375399451792
+      lasswell_win_13: -7180350366396351402
+      lasswell_win_14: -8683439086325840450
+      lasswell_win_15: -8663895845925488886
+      lasswell_win_2: 152679307777579291
+      lasswell_win_3: 2849374846826489071
+      lasswell_win_4: 876815402303997032
+      lasswell_win_5: -8633113260635259990
+      lasswell_win_6: 7550821887262073758
+      lasswell_win_7: 7876115521614482059
+      lasswell_win_8: 5764161273233893760
+      lasswell_win_9: 7627579053910022557
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

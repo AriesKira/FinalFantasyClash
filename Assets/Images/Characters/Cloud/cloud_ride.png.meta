@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: f795f50b065ab4a1f9744c90d2611c3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4062375566358462921
+    second: cloud_ride_0
+  - first:
+      213: -3806493058156866642
+    second: cloud_ride_1
+  - first:
+      213: -8193075942110108482
+    second: cloud_ride_2
+  - first:
+      213: -5345996558708145517
+    second: cloud_ride_3
+  - first:
+      213: 6994323787157032182
+    second: cloud_ride_4
+  - first:
+      213: 7402062911840413539
+    second: cloud_ride_5
+  - first:
+      213: 6142847769287684522
+    second: cloud_ride_6
+  - first:
+      213: 3890432722857088730
+    second: cloud_ride_7
+  - first:
+      213: -3647571375886925381
+    second: cloud_ride_8
+  - first:
+      213: 6939696435288709407
+    second: cloud_ride_9
+  - first:
+      213: -6203275080856777082
+    second: cloud_ride_10
+  - first:
+      213: -2321290876324237486
+    second: cloud_ride_11
+  - first:
+      213: 6704944176989521757
+    second: cloud_ride_12
+  - first:
+      213: -2844654225023533141
+    second: cloud_ride_13
+  - first:
+      213: 5942060693246689845
+    second: cloud_ride_14
+  - first:
+      213: 5346056298600296375
+    second: cloud_ride_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cloud_ride_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.35869408, y: 0.47295615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1c501ed05706830800000000000000
+      internalID: 4062375566358462921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 330
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.37356856, y: 0.4797172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3d1943bbe9c2bc0800000000000000
+      internalID: -3806493058156866642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 330
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.35497573, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb46ab4e6d85c4e80800000000000000
+      internalID: -8193075942110108482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 330
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3661316, y: 0.5000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3928db344743fc5b0800000000000000
+      internalID: -5345996558708145517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 330
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3735687, y: 0.49323925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc4f894d64d01160800000000000000
+      internalID: 6994323787157032182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.38844272, y: 0.4797169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3676751200969b660800000000000000
+      internalID: 7402062911840413539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.36985, y: 0.49323896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa171bdff77cf3550800000000000000
+      internalID: 6142847769287684522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3810057, y: 0.49323896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6d374f2f79df530800000000000000
+      internalID: 3890432722857088730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 220
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3735687, y: 0.49323896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb18067c829316dc0800000000000000
+      internalID: -3647571375886925381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 220
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3735687, y: 0.4797169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f199d6ac321ce4060800000000000000
+      internalID: 6939696435288709407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.39587986, y: 0.48647794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ecf792e2a89e9a0800000000000000
+      internalID: -6203275080856777082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3810057, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fa6582f3e19cfd0800000000000000
+      internalID: -2321290876324237486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 110
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3810057, y: 0.5067612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57c844643fbc0d50800000000000000
+      internalID: 6704944176989521757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 110
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.3661316, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf78a0dd02c588d0800000000000000
+      internalID: -2844654225023533141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 110
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.35869446, y: 0.5067612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532c7c6d7b0767250800000000000000
+      internalID: 5942060693246689845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cloud_ride_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 110
+      alignment: 9
+      pivot: {x: 0.38100556, y: 0.513522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf6f4301e1013a40800000000000000
+      internalID: 5346056298600296375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b0c8960afaf5142ef80f8d26bf7da4e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":200.0,"y":110.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      cloud_ride_0: 4062375566358462921
+      cloud_ride_1: -3806493058156866642
+      cloud_ride_10: -6203275080856777082
+      cloud_ride_11: -2321290876324237486
+      cloud_ride_12: 6704944176989521757
+      cloud_ride_13: -2844654225023533141
+      cloud_ride_14: 5942060693246689845
+      cloud_ride_15: 5346056298600296375
+      cloud_ride_2: -8193075942110108482
+      cloud_ride_3: -5345996558708145517
+      cloud_ride_4: 6994323787157032182
+      cloud_ride_5: 7402062911840413539
+      cloud_ride_6: 6142847769287684522
+      cloud_ride_7: 3890432722857088730
+      cloud_ride_8: -3647571375886925381
+      cloud_ride_9: 6939696435288709407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

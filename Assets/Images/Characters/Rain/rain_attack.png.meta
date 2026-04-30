@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 23852473851f74c5a990e33665083222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3275547584082753564
+    second: rain_attack_0
+  - first:
+      213: -7508376517893451293
+    second: rain_attack_1
+  - first:
+      213: -8325321964143185351
+    second: rain_attack_2
+  - first:
+      213: 8890626330626512718
+    second: rain_attack_3
+  - first:
+      213: -2547181460016316498
+    second: rain_attack_4
+  - first:
+      213: 449606083550234552
+    second: rain_attack_5
+  - first:
+      213: -6901859025871472824
+    second: rain_attack_6
+  - first:
+      213: -8067204003022947451
+    second: rain_attack_7
+  - first:
+      213: -237246380046853028
+    second: rain_attack_8
+  - first:
+      213: 3983092573268202801
+    second: rain_attack_9
+  - first:
+      213: -7217610982823250258
+    second: rain_attack_10
+  - first:
+      213: 8755883644917378858
+    second: rain_attack_11
+  - first:
+      213: 699821058962923673
+    second: rain_attack_12
+  - first:
+      213: -1379664023563481031
+    second: rain_attack_13
+  - first:
+      213: 7528423429081689750
+    second: rain_attack_14
+  - first:
+      213: 4225343802822851288
+    second: rain_attack_15
+  - first:
+      213: -8312385732880214219
+    second: rain_attack_16
+  - first:
+      213: -7828575369698932099
+    second: rain_attack_17
+  - first:
+      213: 3106756130067454626
+    second: rain_attack_18
+  - first:
+      213: 5263099478968363580
+    second: rain_attack_19
+  - first:
+      213: 9160819089979334902
+    second: rain_attack_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rain_attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7cbdda3daea82d0800000000000000
+      internalID: -3275547584082753564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_1
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 276
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1931b8653ecc790800000000000000
+      internalID: -7508376517893451293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 276
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932fc7678c3867c80800000000000000
+      internalID: -8325321964143185351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_3
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 276
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e475abb0b89d16b70800000000000000
+      internalID: 8890626330626512718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_4
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 276
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf344925f796acd0800000000000000
+      internalID: -2547181460016316498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7cdd2d9525d3600800000000000000
+      internalID: 449606083550234552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 138
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8477b1998cba730a0800000000000000
+      internalID: -6901859025871472824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_7
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 138
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b353d73b88b0090800000000000000
+      internalID: -8067204003022947451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 138
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c5f01aca125bcf0800000000000000
+      internalID: -237246380046853028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_9
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 138
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135d5219799c64730800000000000000
+      internalID: 3983092573268202801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6bcd93d05e5db90800000000000000
+      internalID: -7217610982823250258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fe3fdc8c5238970800000000000000
+      internalID: 8755883644917378858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_12
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990a2d99b8346b900800000000000000
+      internalID: 699821058962923673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930dc1e51e27adce0800000000000000
+      internalID: -1379664023563481031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rain_attack_14
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 0
+        width: 380
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e6421b8355a7860800000000000000
+      internalID: 7528423429081689750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8067dc5baef334c8fb2c8b321101d42c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":380.0,"y":138.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      rain_attack_0: -3275547584082753564
+      rain_attack_1: -7508376517893451293
+      rain_attack_10: -7217610982823250258
+      rain_attack_11: 8755883644917378858
+      rain_attack_12: 699821058962923673
+      rain_attack_13: -1379664023563481031
+      rain_attack_14: 7528423429081689750
+      rain_attack_2: -8325321964143185351
+      rain_attack_3: 8890626330626512718
+      rain_attack_4: -2547181460016316498
+      rain_attack_5: 449606083550234552
+      rain_attack_6: -6901859025871472824
+      rain_attack_7: -8067204003022947451
+      rain_attack_8: -237246380046853028
+      rain_attack_9: 3983092573268202801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,599 @@
+fileFormatVersion: 2
+guid: df42bd72669c243429c2b8e1de1f9820
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6817513316251822663
+    second: fina_win_0
+  - first:
+      213: 7823466239688493692
+    second: fina_win_1
+  - first:
+      213: -7982185506798637852
+    second: fina_win_2
+  - first:
+      213: -5497466639089696063
+    second: fina_win_3
+  - first:
+      213: -7372867101867887711
+    second: fina_win_4
+  - first:
+      213: -3660391846250317922
+    second: fina_win_5
+  - first:
+      213: 3936203089192924647
+    second: fina_win_6
+  - first:
+      213: -7874715654739467066
+    second: fina_win_7
+  - first:
+      213: -8591204147817295669
+    second: fina_win_8
+  - first:
+      213: 2648989557567890598
+    second: fina_win_9
+  - first:
+      213: 5098073253690302165
+    second: fina_win_10
+  - first:
+      213: 3111440791011360653
+    second: fina_win_11
+  - first:
+      213: -926482738553645532
+    second: fina_win_12
+  - first:
+      213: 6898959441854051667
+    second: fina_win_13
+  - first:
+      213: 1585723042716208408
+    second: fina_win_14
+  - first:
+      213: -8829077806594457161
+    second: fina_win_15
+  - first:
+      213: -6540641498621200851
+    second: fina_win_16
+  - first:
+      213: 3652807260954269733
+    second: fina_win_17
+  - first:
+      213: 6497588606384990249
+    second: fina_win_18
+  - first:
+      213: 6457332565243370735
+    second: fina_win_19
+  - first:
+      213: -7399286814662923491
+    second: fina_win_20
+  - first:
+      213: 6137567150082495711
+    second: fina_win_21
+  - first:
+      213: 4689947290271947206
+    second: fina_win_22
+  - first:
+      213: 7244011578687817049
+    second: fina_win_23
+  - first:
+      213: -5124010865371453561
+    second: fina_win_24
+  - first:
+      213: 3017275164027293442
+    second: fina_win_25
+  - first:
+      213: -1540841944497752948
+    second: fina_win_26
+  - first:
+      213: 4731668268127843527
+    second: fina_win_27
+  - first:
+      213: -5179640088864124873
+    second: fina_win_28
+  - first:
+      213: 3272160919275991142
+    second: fina_win_29
+  - first:
+      213: 5155388482983971798
+    second: fina_win_30
+  - first:
+      213: 2191891555952245491
+    second: fina_win_31
+  - first:
+      213: -2253124321019735341
+    second: fina_win_32
+  - first:
+      213: 7622161326492458558
+    second: fina_win_33
+  - first:
+      213: 5864820238127094272
+    second: fina_win_34
+  - first:
+      213: 3732529662832797235
+    second: fina_win_35
+  - first:
+      213: -5309673624753018294
+    second: fina_win_36
+  - first:
+      213: -3404945114475255044
+    second: fina_win_37
+  - first:
+      213: 381703539369570241
+    second: fina_win_38
+  - first:
+      213: 6242435002902740034
+    second: fina_win_39
+  - first:
+      213: -3698359619106129305
+    second: fina_win_40
+  - first:
+      213: -4283674916472932311
+    second: fina_win_41
+  - first:
+      213: -4914728540759677519
+    second: fina_win_42
+  - first:
+      213: 124792532788443094
+    second: fina_win_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fina_win_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a6faa8d3cac9e50800000000000000
+      internalID: 6817513316251822663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac4e03819829c60800000000000000
+      internalID: 7823466239688493692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eceeffa294993190800000000000000
+      internalID: -7982185506798637852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c28f74f73315b3b0800000000000000
+      internalID: -5497466639089696063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a330091f605ea990800000000000000
+      internalID: -7372867101867887711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e977389620da33dc0800000000000000
+      internalID: -3660391846250317922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5b32fcad330a630800000000000000
+      internalID: 3936203089192924647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4eb0485d367b290800000000000000
+      internalID: -7874715654739467066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0dc708859e5c880800000000000000
+      internalID: -8591204147817295669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_9
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 120
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4ad88b7f913c420800000000000000
+      internalID: 2648989557567890598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de512d0d9effb640800000000000000
+      internalID: 5098073253690302165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f74ef0aee0e2b20800000000000000
+      internalID: 3111440791011360653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4269af5abd87423f0800000000000000
+      internalID: -926482738553645532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fina_win_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 160
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b9836f070ebf50800000000000000
+      internalID: 6898959441854051667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0b382764fa0cb43febfa22cf83ac7f0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":3.0},"gridSpriteSize":{"x":160.0,"y":120.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      fina_win_0: 6817513316251822663
+      fina_win_1: 7823466239688493692
+      fina_win_10: 5098073253690302165
+      fina_win_11: 3111440791011360653
+      fina_win_12: -926482738553645532
+      fina_win_13: 6898959441854051667
+      fina_win_2: -7982185506798637852
+      fina_win_3: -5497466639089696063
+      fina_win_4: -7372867101867887711
+      fina_win_5: -3660391846250317922
+      fina_win_6: 3936203089192924647
+      fina_win_7: -7874715654739467066
+      fina_win_8: -8591204147817295669
+      fina_win_9: 2648989557567890598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
