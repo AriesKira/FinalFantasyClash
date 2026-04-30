@@ -83,3 +83,18 @@ De plus, une animation d'attaque spéciale (ultime) a été ajoutée à certains
 - Décor : kenney_tiny-town
 
 Note : Tous les assets de décors n'ont pas été utilisés.
+
+### DIFFICULTE
+
+La première difficulté rencontré à été la compréhension de l'IA. Malgré la vidéo parfaite pour la configuration de
+l'ia, l'appliqué et adapter au fonctionnement du jeu restait complexe.
+
+La seconde difficulté et la plus grosse est venu de la gestion des unité et de la gameloop. 
+Le fait qu'il doivent être indépendant et capable d'identifier eux meme quand attaquer et qui attaquer avec l'intégration 
+de l'ia de déplcement a été un vrai challenge.
+
+Ensuite apprendre le fonctionnement de l'animator et des animation en général a été compliqué, j'ai du revoir ma structure
+ma structure de personnage afin de séparer la logique visuelle du fonctionnelle.
+
+Enfin la génération de carte de personnages avec drag and drop et invocation d'unité a été aussi très compliqué. Notamment
+le principe d'instanciation de préfab.
